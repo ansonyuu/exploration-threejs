@@ -1,0 +1,4894 @@
+[
+  {
+    "slug": "communitech-hub",
+    "latitude": 43.451444,
+    "longitude": -80.498859
+  },
+  {
+    "slug": "conestoga-mall",
+    "latitude": 43.4990869950164,
+    "longitude": -80.52979588508606
+  },
+  {
+    "slug": "uwaterloo",
+    "latitude": 43.471324,
+    "longitude": -80.543647
+  },
+  {
+    "slug": "waterloo-city-hall",
+    "latitude": "43.463468",
+    "longitude": "-80.520767"
+  },
+  {
+    "slug": "masonville-mall",
+    "latitude": 43.0251478,
+    "longitude": -81.281731
+  },
+  {
+    "slug": "fairview-park-mall",
+    "latitude": 43.4249,
+    "longitude": -80.4386
+  },
+  {
+    "slug": "markville-shopping-centre",
+    "latitude": 43.869,
+    "longitude": -79.288
+  },
+  {
+    "slug": "shops-at-don-mills",
+    "latitude": 43.73494938994468,
+    "longitude": -79.345275630767
+  },
+  {
+    "slug": "fairview-mall",
+    "latitude": 43.7778,
+    "longitude": -79.3444
+  },
+  {
+    "slug": "uptown-waterloo",
+    "latitude": 43.463923,
+    "longitude": -80.522377
+  },
+  {
+    "slug": "upper-canada-mall",
+    "latitude": 44.0561,
+    "longitude": -79.484
+  },
+  {
+    "slug": "sheraton-centre",
+    "latitude": 43.6512,
+    "longitude": -79.384
+  },
+  {
+    "slug": "casino-rama",
+    "latitude": 44.647101,
+    "longitude": -79.346126
+  },
+  {
+    "slug": "carrefour-laval",
+    "latitude": 45.5701277,
+    "longitude": -73.7540217
+  },
+  {
+    "slug": "10-dundas",
+    "latitude": 43.656625,
+    "longitude": -79.380483
+  },
+  {
+    "slug": "wem-digital",
+    "latitude": 53.521898,
+    "longitude": -113.620326
+  },
+  {
+    "slug": "old-quebec-street",
+    "latitude": 43.545895,
+    "longitude": -80.249136
+  },
+  {
+    "slug": "305-king-w",
+    "latitude": 43.4515348,
+    "longitude": -80.4972233
+  },
+  {
+    "slug": "casino-rama-hotel",
+    "latitude": 44.649226,
+    "longitude": -79.348208
+  },
+  {
+    "slug": "slc-test",
+    "latitude": 43.47198989438589,
+    "longitude": -80.54520517587662
+  },
+  {
+    "slug": "velocity",
+    "latitude": 43.451844,
+    "longitude": -80.498843
+  },
+  {
+    "slug": "metrotown-sportchek",
+    "latitude": 49.2263955,
+    "longitude": -123.0047247
+  },
+  {
+    "slug": "mappedin-sdk-demo",
+    "latitude": 43.656625,
+    "longitude": -79.380483
+  },
+  {
+    "slug": "cambridge-memorial-hospital",
+    "latitude": 43.377995,
+    "longitude": -80.326401
+  },
+  {
+    "slug": "north-york-centre",
+    "latitude": 43.768505,
+    "longitude": -79.413478
+  },
+  {
+    "slug": "rackspace",
+    "latitude": 29.5079812,
+    "longitude": -98.39423249999999
+  },
+  {
+    "slug": "testers_paradise",
+    "latitude": 52,
+    "longitude": 128
+  },
+  {
+    "slug": "new-office",
+    "latitude": 43.4515308,
+    "longitude": -80.4950346
+  },
+  {
+    "slug": "southcentre-mall",
+    "latitude": 50.952737,
+    "longitude": -114.067156
+  },
+  {
+    "slug": "hillcrest-mall",
+    "latitude": 43.855621,
+    "longitude": -79.436557
+  },
+  {
+    "slug": "scarborough-town-centre-mall",
+    "latitude": 43.776771,
+    "longitude": -79.25733
+  },
+  {
+    "slug": "les-promenades-gatineau",
+    "latitude": 45.478049,
+    "longitude": -75.689339
+  },
+  {
+    "slug": "kingsway",
+    "latitude": 53.5619,
+    "longitude": -113.504793
+  },
+  {
+    "slug": "yorkdale-mall",
+    "latitude": 43.724775,
+    "longitude": -79.45538
+  },
+  {
+    "slug": "ecc-mall",
+    "latitude": 53.544421,
+    "longitude": -113.492318
+  },
+  {
+    "slug": "square-one-mall",
+    "latitude": 43.592873,
+    "longitude": -79.642984
+  },
+  {
+    "slug": "les-galeries-de-la-capitale-mall",
+    "latitude": 46.831078,
+    "longitude": -71.298718
+  },
+  {
+    "slug": "155-university",
+    "latitude": 43.6485629,
+    "longitude": -79.3870226
+  },
+  {
+    "slug": "new-conestoga-college-guelph",
+    "latitude": 43.5373189,
+    "longitude": -80.2972101
+  },
+  {
+    "slug": "new-conestoga-college-doon-campus",
+    "latitude": 43.391,
+    "longitude": -80.405
+  },
+  {
+    "slug": "new-conestoga-college-waterloo-campus",
+    "latitude": 43.4790259,
+    "longitude": -80.5178984
+  },
+  {
+    "slug": "new-conestoga-college-campus-cambridge",
+    "latitude": 43.3868299,
+    "longitude": -80.3982499
+  },
+  {
+    "slug": "4-king",
+    "latitude": 43.7015585,
+    "longitude": -79.520601
+  },
+  {
+    "slug": "hospital-demo",
+    "latitude": 43.377995,
+    "longitude": -80.326401
+  },
+  {
+    "slug": "mappedin-campus",
+    "latitude": 43.391,
+    "longitude": -80.405
+  },
+  {
+    "slug": "ctc-304",
+    "latitude": 53.451808071901304,
+    "longitude": -113.48962287709584
+  },
+  {
+    "slug": "maple-leaf-square",
+    "latitude": 43.6853002,
+    "longitude": -79.4511593
+  },
+  {
+    "slug": "tribe-hr",
+    "latitude": 43.4500433,
+    "longitude": -80.4903147
+  },
+  {
+    "slug": "pacific-centre",
+    "latitude": 49.2828884,
+    "longitude": -123.1182066
+  },
+  {
+    "slug": "demo-mall-stable",
+    "latitude": 43.656625,
+    "longitude": -79.380483
+  },
+  {
+    "slug": "testers-corner",
+    "latitude": 5.624527627789861,
+    "longitude": 7.447357177734376
+  },
+  {
+    "slug": "rackspace-uk",
+    "latitude": 51.501646,
+    "longitude": -0.427666
+  },
+  {
+    "slug": "communitech",
+    "latitude": 43.451444,
+    "longitude": -80.498859
+  },
+  {
+    "slug": "ed-test"
+  },
+  {
+    "slug": "leaside-sportchek",
+    "latitude": 43.7096709,
+    "longitude": -79.3626737
+  },
+  {
+    "slug": "casino-rama-1",
+    "latitude": 44.647101,
+    "longitude": -79.346126
+  },
+  {
+    "slug": "ctc-convention"
+  },
+  {
+    "slug": "fgl-head-office",
+    "latitude": 51.093963,
+    "longitude": -114.043778
+  },
+  {
+    "slug": "sherway-gardens",
+    "latitude": 43.612206542405595,
+    "longitude": -79.55736059288031
+  },
+  {
+    "slug": "yorkdale-sportchek",
+    "latitude": 43.727017,
+    "longitude": -79.451283
+  },
+  {
+    "slug": "square-one-sportchek",
+    "latitude": 43.593979,
+    "longitude": -79.6458615
+  },
+  {
+    "slug": "lime-ridge",
+    "latitude": 43.2177325,
+    "longitude": -79.8613196
+  },
+  {
+    "slug": "polo-park",
+    "latitude": 49.884439,
+    "longitude": -97.1988557
+  },
+  {
+    "slug": "fairview-pointe-claire",
+    "latitude": 45.4639672,
+    "longitude": -73.831537
+  },
+  {
+    "slug": "market-mall",
+    "latitude": 51.0847316,
+    "longitude": -114.1558174
+  },
+  {
+    "slug": "cadillac-fairview-offices"
+  },
+  {
+    "slug": "promenade-mall",
+    "latitude": 43.8067096,
+    "longitude": -79.4524759
+  },
+  {
+    "slug": "florida-mall",
+    "latitude": 28.445924,
+    "longitude": -81.395509
+  },
+  {
+    "slug": "rideau-centre",
+    "latitude": 45.425204,
+    "longitude": -75.691444
+  },
+  {
+    "slug": "richmond-centre",
+    "latitude": 49.1669457607482,
+    "longitude": -123.13855290412904
+  },
+  {
+    "slug": "champlain-place",
+    "latitude": 46.09688574440188,
+    "longitude": -64.76230112872145
+  },
+  {
+    "slug": "galeries-danjou",
+    "latitude": 45.600582,
+    "longitude": -73.564731
+  },
+  {
+    "slug": "cf-td-centre"
+  },
+  {
+    "slug": "chinook-centre",
+    "latitude": 50.9984259,
+    "longitude": -114.0731388
+  },
+  {
+    "slug": "cf-calgary-office",
+    "latitude": 51.046751,
+    "longitude": -114.076588
+  },
+  {
+    "slug": "toronto-eaton-centre",
+    "latitude": 43.65374810628558,
+    "longitude": -79.38127708621325
+  },
+  {
+    "slug": "promenade-saint-bruno",
+    "latitude": 45.5054335,
+    "longitude": -73.3803922
+  },
+  {
+    "slug": "cf-yonge-corporate-centre",
+    "latitude": 43.746686,
+    "longitude": -79.409511
+  },
+  {
+    "slug": "cf-rbc-centre",
+    "latitude": 43.64557,
+    "longitude": -79.386455
+  },
+  {
+    "slug": "cf-simcoe-place",
+    "latitude": 43.644818,
+    "longitude": -79.38561
+  },
+  {
+    "slug": "cf-tec-towers",
+    "latitude": 43.6544421,
+    "longitude": -79.3828881
+  },
+  {
+    "slug": "cf-waterfront-properties",
+    "latitude": 49.286591,
+    "longitude": -123.112353
+  },
+  {
+    "slug": "cf-pacific-centre-office",
+    "latitude": 49.2843379,
+    "longitude": -123.1186535
+  },
+  {
+    "slug": "cf-deloitte-tower",
+    "latitude": 45.4971328,
+    "longitude": -73.5711792
+  },
+  {
+    "slug": "first-canadian-place",
+    "latitude": 43.64897,
+    "longitude": -79.381761
+  },
+  {
+    "slug": "yyc",
+    "latitude": 51.1250608,
+    "longitude": -114.0190835
+  },
+  {
+    "slug": "imex-office",
+    "latitude": 71.22765,
+    "longitude": -179.478145
+  },
+  {
+    "slug": "sonos-santa-barbara",
+    "latitude": 34.4172872,
+    "longitude": -119.6984328
+  },
+  {
+    "slug": "yonge-st-sportchek",
+    "latitude": 43.71294,
+    "longitude": -79.39966
+  },
+  {
+    "slug": "sonos-boston",
+    "latitude": 42.3695046,
+    "longitude": -71.0780552
+  },
+  {
+    "slug": "cf-pacific-centre-demo",
+    "latitude": 49.2828884,
+    "longitude": -123.1182066
+  },
+  {
+    "slug": "breeze-centre",
+    "latitude": 25.040577,
+    "longitude": 121.566917
+  },
+  {
+    "slug": "college-park",
+    "latitude": 43.6609813,
+    "longitude": -79.3842049
+  },
+  {
+    "slug": "sonos-amsterdam",
+    "latitude": 52.2252333,
+    "longitude": 5.1569569
+  },
+  {
+    "slug": "conestoga-mall-new",
+    "latitude": 43.4990869950164,
+    "longitude": -80.52979588508606
+  },
+  {
+    "slug": "southcentre-sportchek",
+    "latitude": 50.9521399,
+    "longitude": -114.0699677
+  },
+  {
+    "slug": "indigo-north-london",
+    "latitude": 43.0288203,
+    "longitude": -81.2824345
+  },
+  {
+    "slug": "pacific-centre-static-map",
+    "latitude": 49.2843379,
+    "longitude": -123.1186535
+  },
+  {
+    "slug": "fallsview-casino",
+    "latitude": 43.082244,
+    "longitude": -79.081169
+  },
+  {
+    "slug": "paul-test",
+    "latitude": 43.439347876822445,
+    "longitude": -80.41922718286514
+  },
+  {
+    "slug": "digivalet",
+    "latitude": 22.312792,
+    "longitude": 113.9254357
+  },
+  {
+    "slug": "simon-sandbox"
+  },
+  {
+    "slug": "ivanhoe-cambridge-demo",
+    "latitude": 55.947331,
+    "longitude": -3.18479
+  },
+  {
+    "slug": "strathcona-county",
+    "latitude": 53.526194,
+    "longitude": -113.297164
+  },
+  {
+    "slug": "simon-fashion-centre-at-pentagon-city",
+    "latitude": 38.862966,
+    "longitude": -77.060991
+  },
+  {
+    "slug": "fgl-robson-0337",
+    "latitude": 49.2816722,
+    "longitude": -123.1232344
+  },
+  {
+    "slug": "fgl-sherway-0243",
+    "latitude": 43.6172319,
+    "longitude": -79.556022
+  },
+  {
+    "slug": "orlando-city-soccer-stadium",
+    "latitude": 28.54107067883244,
+    "longitude": -81.3892511901213
+  },
+  {
+    "slug": "vaughan-mills",
+    "latitude": 43.8255594,
+    "longitude": -79.5396951
+  },
+  {
+    "slug": "simon-copley-place",
+    "latitude": 42.347175,
+    "longitude": -71.077769
+  },
+  {
+    "slug": "bankers-hall",
+    "latitude": 51.04538,
+    "longitude": -114.0714287
+  },
+  {
+    "slug": "polygon-test",
+    "latitude": 43.453168,
+    "longitude": -80.494423
+  },
+  {
+    "slug": "api-demo1",
+    "latitude": 16.7540469,
+    "longitude": -62.0984602
+  },
+  {
+    "slug": "api-demo2",
+    "latitude": 17.0254565,
+    "longitude": 61.8523344
+  },
+  {
+    "slug": "toronto-dominion-centre",
+    "latitude": 43.6476577,
+    "longitude": -79.3836132
+  },
+  {
+    "slug": "simon-the-fashion-mall-at-keystone",
+    "latitude": 39.914278,
+    "longitude": -86.109424
+  },
+  {
+    "slug": "breeze-nan-jing",
+    "latitude": 25.0521115,
+    "longitude": 121.548919
+  },
+  {
+    "slug": "compass-group-canada-head-office",
+    "latitude": 43.4473581,
+    "longitude": -80.4691849
+  },
+  {
+    "slug": "simon-the-forum-shops-at-caesars-palace",
+    "latitude": 36.119001,
+    "longitude": -115.176126
+  },
+  {
+    "slug": "simon-king-of-prussia",
+    "latitude": 40.088227,
+    "longitude": -75.390953
+  },
+  {
+    "slug": "td-centre",
+    "latitude": 43.6479,
+    "longitude": -79.3808
+  },
+  {
+    "slug": "waterfront-centre",
+    "latitude": 43.274236,
+    "longitude": -79.864595
+  },
+  {
+    "slug": "the-station",
+    "latitude": 49.2856484,
+    "longitude": -123.1140417
+  },
+  {
+    "slug": "simcoe-place",
+    "latitude": 43.6450662,
+    "longitude": -79.3857064
+  },
+  {
+    "slug": "hudsons-bay-centre",
+    "latitude": 43.670693,
+    "longitude": -79.385859
+  },
+  {
+    "slug": "metropolis",
+    "latitude": 49.226862,
+    "longitude": -123.002691
+  },
+  {
+    "slug": "brookfield-place",
+    "latitude": 51.047,
+    "longitude": -114.0682887
+  },
+  {
+    "slug": "bay-adelaide-centre",
+    "latitude": 43.6500703,
+    "longitude": -79.3806653
+  },
+  {
+    "slug": "kinetic-cafe-office",
+    "latitude": 43.6424362,
+    "longitude": -79.374552
+  },
+  {
+    "slug": "simon-castleton-square",
+    "latitude": 39.908971,
+    "longitude": -86.065221
+  },
+  {
+    "slug": "simon-greenwood-park-mall",
+    "latitude": 39.632718,
+    "longitude": -86.120496
+  },
+  {
+    "slug": "simon-opry-mills",
+    "latitude": 36.204711,
+    "longitude": -86.692944
+  },
+  {
+    "slug": "suncor-energy-centre",
+    "latitude": 51.0480758,
+    "longitude": -114.0640679
+  },
+  {
+    "slug": "fifth-avenue-place",
+    "latitude": 51.048889,
+    "longitude": -114.068305
+  },
+  {
+    "slug": "2-queen-street-east",
+    "latitude": 43.6527954,
+    "longitude": -79.381083
+  },
+  {
+    "slug": "queens-quay-terminal",
+    "latitude": 43.6386403,
+    "longitude": -79.3806966
+  },
+  {
+    "slug": "place-de-ville",
+    "latitude": 45.4193913,
+    "longitude": -75.7038846
+  },
+  {
+    "slug": "simon-edinburgh",
+    "latitude": 39.30988,
+    "longitude": -85.96122
+  },
+  {
+    "slug": "simon-stanford-shopping-center",
+    "latitude": 37.443126,
+    "longitude": -122.171574
+  },
+  {
+    "slug": "mapping-test-1",
+    "latitude": 37.68777267015838,
+    "longitude": -121.05465352535249
+  },
+  {
+    "slug": "mapping-test-2"
+  },
+  {
+    "slug": "mapping-test-3",
+    "latitude": 43.787227931422336,
+    "longitude": -79.49752115411685
+  },
+  {
+    "slug": "mapping-test-4"
+  },
+  {
+    "slug": "mapping-test-5",
+    "latitude": 43.82524170018681,
+    "longitude": -79.5381740445737
+  },
+  {
+    "slug": "mapping-test-6"
+  },
+  {
+    "slug": "mapping-test-7",
+    "latitude": 37.68784684423382,
+    "longitude": -121.05459093349056
+  },
+  {
+    "slug": "simon-the-galleria",
+    "latitude": 29.739195,
+    "longitude": -95.463434
+  },
+  {
+    "slug": "simon-grove-city",
+    "latitude": 41.141132,
+    "longitude": -80.157477
+  },
+  {
+    "slug": "simon-circle-centre-mall",
+    "latitude": 39.765257,
+    "longitude": -86.159397
+  },
+  {
+    "slug": "simon-montgomery-mall",
+    "latitude": 40.234864,
+    "longitude": -75.244737
+  },
+  {
+    "slug": "simon-the-mall-at-tuttle-crossing",
+    "latitude": 40.072949,
+    "longitude": -83.130755
+  },
+  {
+    "slug": "simon-the-shops-at-crystals",
+    "latitude": 36.107997,
+    "longitude": -115.17431
+  },
+  {
+    "slug": "simon-st-charles-towne-center",
+    "latitude": 38.617447,
+    "longitude": -76.925585
+  },
+  {
+    "slug": "simon-lehigh-valley-mall",
+    "latitude": 40.630904,
+    "longitude": -75.480104
+  },
+  {
+    "slug": "design-electronics",
+    "latitude": 43.0751013,
+    "longitude": -79.1177739
+  },
+  {
+    "slug": "simon-twin-cities",
+    "latitude": 44.815629,
+    "longitude": -93.214606
+  },
+  {
+    "slug": "simon-abq-uptown",
+    "latitude": 35.103543,
+    "longitude": -106.56711
+  },
+  {
+    "slug": "simon-albertville",
+    "latitude": 45.244586,
+    "longitude": -93.661746
+  },
+  {
+    "slug": "simon-allen",
+    "latitude": 33.132718,
+    "longitude": -96.660751
+  },
+  {
+    "slug": "simon-anchorage-5th-avenue-mall",
+    "latitude": 61.217162,
+    "longitude": -149.88861
+  },
+  {
+    "slug": "simon-arizona-mills",
+    "latitude": 33.383045,
+    "longitude": -111.964472
+  },
+  {
+    "slug": "simon-apple-blossom-mall",
+    "latitude": 39.160165,
+    "longitude": -78.163745
+  },
+  {
+    "slug": "simon-arundel-mills-marketplace",
+    "latitude": 39.154038,
+    "longitude": -76.727306
+  },
+  {
+    "slug": "simon-arundel-mills",
+    "latitude": 39.157819,
+    "longitude": -76.724707
+  },
+  {
+    "slug": "simon-aurora-farms",
+    "latitude": 41.301898,
+    "longitude": -81.343187
+  },
+  {
+    "slug": "simon-auburn-mall",
+    "latitude": 42.202105,
+    "longitude": -71.835179
+  },
+  {
+    "slug": "simon-aventura-mall",
+    "latitude": 25.956307,
+    "longitude": -80.142243
+  },
+  {
+    "slug": "simon-bangor-mall",
+    "latitude": 44.830134,
+    "longitude": -68.748976
+  },
+  {
+    "slug": "simon-barton-creek-square",
+    "latitude": 30.257727,
+    "longitude": -97.807037
+  },
+  {
+    "slug": "simon-battlefield-mall",
+    "latitude": 37.162676,
+    "longitude": -93.265815
+  },
+  {
+    "slug": "simon-bay-park-square",
+    "latitude": 44.483821,
+    "longitude": -88.065994
+  },
+  {
+    "slug": "simon-birch-run",
+    "latitude": 43.246775,
+    "longitude": -83.777537
+  },
+  {
+    "slug": "simon-brea-mall",
+    "latitude": 33.915477,
+    "longitude": -117.886414
+  },
+  {
+    "slug": "simon-briarwood-mall",
+    "latitude": 42.24039,
+    "longitude": -83.746537
+  },
+  {
+    "slug": "simon-brickell-city-centre",
+    "latitude": 25.76738,
+    "longitude": -80.193336
+  },
+  {
+    "slug": "simon-broadway-square",
+    "latitude": 32.299381,
+    "longitude": -95.302639
+  },
+  {
+    "slug": "simon-burlington-mall",
+    "latitude": 42.481052,
+    "longitude": -71.217098
+  },
+  {
+    "slug": "simon-calhoun",
+    "latitude": 34.460206,
+    "longitude": -84.918426
+  },
+  {
+    "slug": "simon-camarillo",
+    "latitude": 34.21665,
+    "longitude": -119.060378
+  },
+  {
+    "slug": "simon-cape-cod-mall",
+    "latitude": 41.667482253407634,
+    "longitude": -70.29759308381472
+  },
+  {
+    "slug": "simon-carlsbad",
+    "latitude": 33.126454,
+    "longitude": -117.321098
+  },
+  {
+    "slug": "simon-carolina",
+    "latitude": 35.509225,
+    "longitude": -78.314387
+  },
+  {
+    "slug": "simon-chicago",
+    "latitude": 41.800478,
+    "longitude": -88.27397
+  },
+  {
+    "slug": "simon-charlotte",
+    "latitude": 35.169368,
+    "longitude": -80.970161
+  },
+  {
+    "slug": "simon-cielo-vista",
+    "latitude": 31.775044,
+    "longitude": -106.37921
+  },
+  {
+    "slug": "simon-cincinnati",
+    "latitude": 39.433908,
+    "longitude": -84.337135
+  },
+  {
+    "slug": "simon-clarksburg",
+    "latitude": 39.228106,
+    "longitude": -77.28596
+  },
+  {
+    "slug": "simon-clinton-crossing",
+    "latitude": 41.292012,
+    "longitude": -72.534114
+  },
+  {
+    "slug": "simon-coconut-point",
+    "latitude": 26.403885,
+    "longitude": -81.807185
+  },
+  {
+    "slug": "simon-coddingtown-mall",
+    "latitude": 38.457819,
+    "longitude": -122.730211
+  },
+  {
+    "slug": "simon-colorado-mills",
+    "latitude": 39.731722,
+    "longitude": -105.158288
+  },
+  {
+    "slug": "simon-college-mall",
+    "latitude": 39.160946,
+    "longitude": -86.495715
+  },
+  {
+    "slug": "simon-columbia-center",
+    "latitude": 46.226089,
+    "longitude": -119.227167
+  },
+  {
+    "slug": "simon-concord-mills",
+    "latitude": 35.369009,
+    "longitude": -80.721971
+  },
+  {
+    "slug": "simon-coral-square",
+    "latitude": 26.241401,
+    "longitude": -80.249125
+  },
+  {
+    "slug": "simon-cordova-mall",
+    "latitude": 30.475114,
+    "longitude": -87.207241
+  },
+  {
+    "slug": "simon-crystal-mall",
+    "latitude": 41.374038,
+    "longitude": -72.144764
+  },
+  {
+    "slug": "simon-dadeland-mall",
+    "latitude": 25.689573273399738,
+    "longitude": -80.31219979871823
+  },
+  {
+    "slug": "simon-del-amo-fashion-center",
+    "latitude": 33.830765,
+    "longitude": -118.349415
+  },
+  {
+    "slug": "simon-denver-west-village",
+    "latitude": 39.736263,
+    "longitude": -105.161712
+  },
+  {
+    "slug": "simon-desert-hills",
+    "latitude": 33.928778,
+    "longitude": -116.815491
+  },
+  {
+    "slug": "simon-dover-commons",
+    "latitude": 39.190341,
+    "longitude": -75.539694
+  },
+  {
+    "slug": "simon-dover-mall",
+    "latitude": 39.193897,
+    "longitude": -75.53965
+  },
+  {
+    "slug": "simon-ellenton",
+    "latitude": 27.534275,
+    "longitude": -82.507606
+  },
+  {
+    "slug": "simon-emerald-square",
+    "latitude": 41.946635,
+    "longitude": -71.349985
+  },
+  {
+    "slug": "simon-fashion-valley",
+    "latitude": 32.767961,
+    "longitude": -117.166733
+  },
+  {
+    "slug": "simon-florida-keys-outlet-center",
+    "latitude": 25.452554,
+    "longitude": -80.473095
+  },
+  {
+    "slug": "simon-firewheel-town-center",
+    "latitude": 32.952703,
+    "longitude": -96.612316
+  },
+  {
+    "slug": "simon-gaffney",
+    "latitude": 35.081973,
+    "longitude": -81.712177
+  },
+  {
+    "slug": "simon-folsom",
+    "latitude": 38.643781,
+    "longitude": -121.187932
+  },
+  {
+    "slug": "simon-galleria-dallas",
+    "latitude": 32.930053,
+    "longitude": -96.819569
+  },
+  {
+    "slug": "simon-gilroy",
+    "latitude": 37.025183,
+    "longitude": -121.564471
+  },
+  {
+    "slug": "simon-gloucester",
+    "latitude": 39.785852,
+    "longitude": -75.052188
+  },
+  {
+    "slug": "simon-grand-prairie",
+    "latitude": 32.679375,
+    "longitude": -97.05364
+  },
+  {
+    "slug": "simon-grapevine-mills",
+    "latitude": 32.965993,
+    "longitude": -97.04276
+  },
+  {
+    "slug": "simon-great-mall",
+    "latitude": 37.415738,
+    "longitude": -121.897412
+  },
+  {
+    "slug": "simon-gulfport",
+    "latitude": 30.428974,
+    "longitude": -89.099158
+  },
+  {
+    "slug": "simon-gurnee-mills",
+    "latitude": 42.38904,
+    "longitude": -87.957164
+  },
+  {
+    "slug": "simon-hagerstown",
+    "latitude": 39.608093,
+    "longitude": -77.733129
+  },
+  {
+    "slug": "simon-hamilton-town-center",
+    "latitude": 39.991545,
+    "longitude": -85.931567
+  },
+  {
+    "slug": "simon-haywood-mall",
+    "latitude": 34.849831,
+    "longitude": -82.333378
+  },
+  {
+    "slug": "simon-houston",
+    "latitude": 29.997041,
+    "longitude": -95.756573
+  },
+  {
+    "slug": "simon-independence-center",
+    "latitude": 39.045138,
+    "longitude": -94.35804
+  },
+  {
+    "slug": "simon-ingram-park-mall",
+    "latitude": 29.469013,
+    "longitude": -98.621005
+  },
+  {
+    "slug": "simon-jersey-shore",
+    "latitude": 40.224152,
+    "longitude": -74.094329
+  },
+  {
+    "slug": "simon-jackson",
+    "latitude": 40.16169,
+    "longitude": -74.417352
+  },
+  {
+    "slug": "simon-johnson-creek",
+    "latitude": 43.090144,
+    "longitude": -88.762995
+  },
+  {
+    "slug": "simon-katy-mills",
+    "latitude": 29.775746,
+    "longitude": -95.80937
+  },
+  {
+    "slug": "simon-kittery",
+    "latitude": 43.115225,
+    "longitude": -70.73081
+  },
+  {
+    "slug": "simon-la-plaza-mall",
+    "latitude": 26.184866,
+    "longitude": -98.235896
+  },
+  {
+    "slug": "simon-lakeline-mall",
+    "latitude": 30.470378,
+    "longitude": -97.806959
+  },
+  {
+    "slug": "simon-las-americas",
+    "latitude": 32.543694,
+    "longitude": -117.041465
+  },
+  {
+    "slug": "simon-las-vegas-south",
+    "latitude": 36.053933,
+    "longitude": -115.168928
+  },
+  {
+    "slug": "simon-las-vegas-north",
+    "latitude": 36.163651,
+    "longitude": -115.157749
+  },
+  {
+    "slug": "simon-lebanon",
+    "latitude": 36.179769,
+    "longitude": -86.305025
+  },
+  {
+    "slug": "simon-lee",
+    "latitude": 42.294464,
+    "longitude": -73.234177
+  },
+  {
+    "slug": "simon-leesburg-corner",
+    "latitude": 39.106767,
+    "longitude": -77.538453
+  },
+  {
+    "slug": "simon-lenox-square",
+    "latitude": 33.846292,
+    "longitude": -84.362142
+  },
+  {
+    "slug": "simon-liberty-tree-mall",
+    "latitude": 42.552709,
+    "longitude": -70.940105
+  },
+  {
+    "slug": "simon-liberty-village",
+    "latitude": 40.503529,
+    "longitude": -74.861514
+  },
+  {
+    "slug": "simon-liberty-tree-strip",
+    "latitude": 42.551452,
+    "longitude": -70.939858
+  },
+  {
+    "slug": "simon-lighthouse-place",
+    "latitude": 41.714591,
+    "longitude": -86.906732
+  },
+  {
+    "slug": "simon-lincoln-plaza",
+    "latitude": 40.181511,
+    "longitude": -74.873133
+  },
+  {
+    "slug": "simon-livingston-mall",
+    "latitude": 40.776901,
+    "longitude": -74.353789
+  },
+  {
+    "slug": "simon-mall-of-georgia",
+    "latitude": 34.065141,
+    "longitude": -83.984484
+  },
+  {
+    "slug": "simon-mccain-mall",
+    "latitude": 34.7928,
+    "longitude": -92.226538
+  },
+  {
+    "slug": "simon-meadowood-mall",
+    "latitude": 39.473896,
+    "longitude": -119.78282
+  },
+  {
+    "slug": "simon-menlo-park-mall",
+    "latitude": 40.547728,
+    "longitude": -74.335532
+  },
+  {
+    "slug": "simon-merrimack",
+    "latitude": 42.825759,
+    "longitude": -71.500786
+  },
+  {
+    "slug": "simon-miami-international-mall",
+    "latitude": 25.786671,
+    "longitude": -80.36496
+  },
+  {
+    "slug": "simon-midland-park-mall",
+    "latitude": 32.030406,
+    "longitude": -102.131735
+  },
+  {
+    "slug": "simon-miller-hill-mall",
+    "latitude": 46.803437,
+    "longitude": -92.159103
+  },
+  {
+    "slug": "simon-napa",
+    "latitude": 38.296079,
+    "longitude": -122.303059
+  },
+  {
+    "slug": "simon-naples-outlet-center",
+    "latitude": 26.045539,
+    "longitude": -81.699011
+  },
+  {
+    "slug": "simon-newport-centre",
+    "latitude": 40.726921,
+    "longitude": -74.038087
+  },
+  {
+    "slug": "simon-newport-crossing",
+    "latitude": 40.730704,
+    "longitude": -74.035188
+  },
+  {
+    "slug": "simon-newport-plaza",
+    "latitude": 40.734576,
+    "longitude": -74.040513
+  },
+  {
+    "slug": "simon-norfolk",
+    "latitude": 36.882107,
+    "longitude": -76.199552
+  },
+  {
+    "slug": "simon-north-bend",
+    "latitude": 47.490978,
+    "longitude": -121.795576
+  },
+  {
+    "slug": "simon-north-east-mall",
+    "latitude": 32.829864,
+    "longitude": -97.199768
+  },
+  {
+    "slug": "simon-north-georgia",
+    "latitude": 34.35688,
+    "longitude": -84.048106
+  },
+  {
+    "slug": "simon-northgate-mall",
+    "latitude": 47.706123,
+    "longitude": -122.325865
+  },
+  {
+    "slug": "simon-northshore-mall",
+    "latitude": 42.540781,
+    "longitude": -70.944278
+  },
+  {
+    "slug": "simon-novi-town-center",
+    "latitude": 42.48263,
+    "longitude": -83.471608
+  },
+  {
+    "slug": "simon-ontario-mills",
+    "latitude": 34.072984,
+    "longitude": -117.551993
+  },
+  {
+    "slug": "simon-ocean-county-mall",
+    "latitude": 39.98063,
+    "longitude": -74.178014
+  },
+  {
+    "slug": "simon-orland-square",
+    "latitude": 41.619726,
+    "longitude": -87.848246
+  },
+  {
+    "slug": "simon-orlando-vineland",
+    "latitude": 28.387174,
+    "longitude": -81.492364
+  },
+  {
+    "slug": "simon-orlando-international",
+    "latitude": 28.474689,
+    "longitude": -81.451358
+  },
+  {
+    "slug": "simon-osage-beach",
+    "latitude": 38.143883,
+    "longitude": -92.62728
+  },
+  {
+    "slug": "simon-outlet-marketplace",
+    "latitude": 28.468138,
+    "longitude": -81.45211
+  },
+  {
+    "slug": "simon-oxford-valley-mall",
+    "latitude": 40.183816,
+    "longitude": -74.880624
+  },
+  {
+    "slug": "simon-penn-square-mall",
+    "latitude": 35.524848,
+    "longitude": -97.544411
+  },
+  {
+    "slug": "simon-petaluma-village",
+    "latitude": 38.256944,
+    "longitude": -122.649897
+  },
+  {
+    "slug": "simon-pheasant-lane-mall",
+    "latitude": 42.701125,
+    "longitude": -71.437365
+  },
+  {
+    "slug": "simon-philadelphia-mills",
+    "latitude": 40.087492,
+    "longitude": -74.961623
+  },
+  {
+    "slug": "simon-philadelphia",
+    "latitude": 40.236614,
+    "longitude": -75.570563
+  },
+  {
+    "slug": "simon-phipps-plaza",
+    "latitude": 33.852544,
+    "longitude": -84.361986
+  },
+  {
+    "slug": "simon-phoenix",
+    "latitude": 33.287609,
+    "longitude": -111.973491
+  },
+  {
+    "slug": "simon-pismo-beach",
+    "latitude": 35.135435,
+    "longitude": -120.627833
+  },
+  {
+    "slug": "simon-pier-park",
+    "latitude": 30.218135,
+    "longitude": -85.873475
+  },
+  {
+    "slug": "simon-plaza-carolina",
+    "latitude": 18.39235,
+    "longitude": -65.974888
+  },
+  {
+    "slug": "simon-pleasant-prairie",
+    "latitude": 42.516663,
+    "longitude": -87.948435
+  },
+  {
+    "slug": "simon-prien-lake-mall",
+    "latitude": 30.200455,
+    "longitude": -93.226481
+  },
+  {
+    "slug": "simon-potomac-mills",
+    "latitude": 38.643339,
+    "longitude": -77.295063
+  },
+  {
+    "slug": "simon-quaker-bridge-mall",
+    "latitude": 40.290861,
+    "longitude": -74.681631
+  },
+  {
+    "slug": "simon-puerto-rico",
+    "latitude": 18.438676,
+    "longitude": -66.540878
+  },
+  {
+    "slug": "simon-queenstown",
+    "latitude": 38.983025,
+    "longitude": -76.159844
+  },
+  {
+    "slug": "simon-rio-grande-valley",
+    "latitude": 26.162872,
+    "longitude": -97.887797
+  },
+  {
+    "slug": "simon-roosevelt-field",
+    "latitude": 40.738063,
+    "longitude": -73.612808
+  },
+  {
+    "slug": "simon-rockaway-townsquare",
+    "latitude": 40.907114,
+    "longitude": -74.553961
+  },
+  {
+    "slug": "simon-ross-park-mall",
+    "latitude": 40.543442,
+    "longitude": -80.008053
+  },
+  {
+    "slug": "simon-round-rock",
+    "latitude": 30.566409,
+    "longitude": -97.6897
+  },
+  {
+    "slug": "simon-san-francisco",
+    "latitude": 37.698677,
+    "longitude": -121.845142
+  },
+  {
+    "slug": "simon-san-marcos",
+    "latitude": 29.824217,
+    "longitude": -97.987275
+  },
+  {
+    "slug": "simon-santa-rosa-plaza",
+    "latitude": 38.438817,
+    "longitude": -122.716481
+  },
+  {
+    "slug": "simon-sawgrass-mills",
+    "latitude": 26.151701,
+    "longitude": -80.320787
+  },
+  {
+    "slug": "simon-seattle",
+    "latitude": 48.093531,
+    "longitude": -122.188311
+  },
+  {
+    "slug": "simon-silver-sands",
+    "latitude": 30.37889,
+    "longitude": -86.348359
+  },
+  {
+    "slug": "simon-smith-haven-mall",
+    "latitude": 40.864913,
+    "longitude": -73.130107
+  },
+  {
+    "slug": "simon-solomon-pond-mall",
+    "latitude": 42.355943,
+    "longitude": -71.612588
+  },
+  {
+    "slug": "simon-south-hills-village",
+    "latitude": 40.342376,
+    "longitude": -80.056053
+  },
+  {
+    "slug": "simon-southpark",
+    "latitude": 35.152187,
+    "longitude": -80.831759
+  },
+  {
+    "slug": "simon-south-shore-plaza",
+    "latitude": 42.221995,
+    "longitude": -71.023768
+  },
+  {
+    "slug": "simon-southdale-center",
+    "latitude": 44.880658,
+    "longitude": -93.32478
+  },
+  {
+    "slug": "simon-southridge-mall",
+    "latitude": 42.948043,
+    "longitude": -88.004404
+  },
+  {
+    "slug": "simon-st-johns-town-center",
+    "latitude": 30.256871,
+    "longitude": -81.525324
+  },
+  {
+    "slug": "simon-square-one-mall",
+    "latitude": 42.460834,
+    "longitude": -71.027447
+  },
+  {
+    "slug": "simon-st-johns-town-center-community-center",
+    "latitude": 30.259975,
+    "longitude": -81.524804
+  },
+  {
+    "slug": "simon-st-augustine",
+    "latitude": 29.924017,
+    "longitude": -81.417068
+  },
+  {
+    "slug": "simon-st-louis",
+    "latitude": 38.67742,
+    "longitude": -90.661463
+  },
+  {
+    "slug": "simon-stoneridge-shopping-center",
+    "latitude": 37.695266,
+    "longitude": -121.928845
+  },
+  {
+    "slug": "simon-sugarloaf-mills",
+    "latitude": 33.980671,
+    "longitude": -84.080965
+  },
+  {
+    "slug": "simon-summit-mall",
+    "latitude": 41.133943,
+    "longitude": -81.617013
+  },
+  {
+    "slug": "simon-tacoma-mall",
+    "latitude": 47.215379126446706,
+    "longitude": -122.46836408972743
+  },
+  {
+    "slug": "simon-tampa",
+    "latitude": 28.190354,
+    "longitude": -82.3906
+  },
+  {
+    "slug": "simon-the-avenues",
+    "latitude": 30.184439,
+    "longitude": -81.554024
+  },
+  {
+    "slug": "simon-the-colonnade-outlets-at-sawgrass-mills",
+    "latitude": 26.151393,
+    "longitude": -80.320916
+  },
+  {
+    "slug": "simon-the-crossings",
+    "latitude": 41.047187,
+    "longitude": -75.312073
+  },
+  {
+    "slug": "simon-the-domain",
+    "latitude": 30.402065,
+    "longitude": -97.725883
+  },
+  {
+    "slug": "simon-the-empire-mall",
+    "latitude": 43.511156,
+    "longitude": -96.775808
+  },
+  {
+    "slug": "simon-the-esplanade",
+    "latitude": 30.016564,
+    "longitude": -90.248995
+  },
+  {
+    "slug": "simon-the-falls",
+    "latitude": 25.644235,
+    "longitude": -80.338372
+  },
+  {
+    "slug": "simon-the-galleria-at-white-plains",
+    "latitude": 41.031521,
+    "longitude": -73.770082
+  },
+  {
+    "slug": "simon-the-mall-at-fox-run",
+    "latitude": 43.0972,
+    "longitude": -70.805116
+  },
+  {
+    "slug": "simon-the-mall-at-rockingham-park",
+    "latitude": 42.767509,
+    "longitude": -71.231822
+  },
+  {
+    "slug": "simon-the-mall-of-new-hampshire",
+    "latitude": 42.955622,
+    "longitude": -71.431925
+  },
+  {
+    "slug": "simon-the-mills-at-jersey-gardens",
+    "latitude": 40.660114,
+    "longitude": -74.171582
+  },
+  {
+    "slug": "simon-the-outlets-at-orange",
+    "latitude": 33.782786,
+    "longitude": -117.892613
+  },
+  {
+    "slug": "simon-the-shops-at-chestnut-hill",
+    "latitude": 42.321335,
+    "longitude": -71.175989
+  },
+  {
+    "slug": "simon-the-shops-at-clearfork",
+    "latitude": 32.710076,
+    "longitude": -97.399635
+  },
+  {
+    "slug": "simon-the-shops-at-mission-viejo",
+    "latitude": 33.557668,
+    "longitude": -117.669539
+  },
+  {
+    "slug": "simon-the-shops-at-montebello",
+    "latitude": 34.035911,
+    "longitude": -118.083801
+  },
+  {
+    "slug": "simon-the-shops-at-nanuet",
+    "latitude": 41.096049,
+    "longitude": -74.016373
+  },
+  {
+    "slug": "simon-the-shops-at-riverside",
+    "latitude": 40.905838,
+    "longitude": -74.030045
+  },
+  {
+    "slug": "simon-the-westchester",
+    "latitude": 41.031124,
+    "longitude": -73.759053
+  },
+  {
+    "slug": "simon-tippecanoe-mall",
+    "latitude": 40.391543,
+    "longitude": -86.8504
+  },
+  {
+    "slug": "simon-town-center-at-boca-raton",
+    "latitude": 26.365014,
+    "longitude": -80.132754
+  },
+  {
+    "slug": "simon-town-center-at-cobb",
+    "latitude": 34.017781,
+    "longitude": -84.564278
+  },
+  {
+    "slug": "simon-towne-east-square",
+    "latitude": 37.683226,
+    "longitude": -97.246995
+  },
+  {
+    "slug": "simon-treasure-coast-square",
+    "latitude": 27.241619,
+    "longitude": -80.274782
+  },
+  {
+    "slug": "simon-tucson",
+    "latitude": 32.375255,
+    "longitude": -111.101551
+  },
+  {
+    "slug": "simon-tyrone-square",
+    "latitude": 27.793787,
+    "longitude": -82.733381
+  },
+  {
+    "slug": "simon-university-park-village",
+    "latitude": 32.727546,
+    "longitude": -97.363613
+  },
+  {
+    "slug": "simon-university-park-mall",
+    "latitude": 41.719184,
+    "longitude": -86.190405
+  },
+  {
+    "slug": "simon-waikele",
+    "latitude": 21.402193,
+    "longitude": -158.006739
+  },
+  {
+    "slug": "simon-vacaville",
+    "latitude": 38.365719,
+    "longitude": -121.956992
+  },
+  {
+    "slug": "simon-walt-whitman-shops",
+    "latitude": 40.822261,
+    "longitude": -73.410172
+  },
+  {
+    "slug": "simon-waterloo",
+    "latitude": 42.956187,
+    "longitude": -76.921377
+  },
+  {
+    "slug": "simon-west-town-mall",
+    "latitude": 35.925114,
+    "longitude": -84.037235
+  },
+  {
+    "slug": "simon-white-oaks-mall",
+    "latitude": 39.767244,
+    "longitude": -89.703614
+  },
+  {
+    "slug": "simon-williamsburg",
+    "latitude": 37.319613,
+    "longitude": -76.737232
+  },
+  {
+    "slug": "simon-wolfchase-galleria",
+    "latitude": 35.203409,
+    "longitude": -89.793299
+  },
+  {
+    "slug": "simon-woodburn",
+    "latitude": 45.156167,
+    "longitude": -122.878561
+  },
+  {
+    "slug": "simon-woodbury-common",
+    "latitude": 41.31628,
+    "longitude": -74.125769
+  },
+  {
+    "slug": "simon-woodfield-mall",
+    "latitude": 42.046416,
+    "longitude": -88.037125
+  },
+  {
+    "slug": "simon-woodland-hills-mall",
+    "latitude": 36.063341,
+    "longitude": -95.881655
+  },
+  {
+    "slug": "simon-wrentham-village",
+    "latitude": 42.038138,
+    "longitude": -71.352639
+  },
+  {
+    "slug": "test-venue-manny"
+  },
+  {
+    "slug": "tsawwassen-mill",
+    "latitude": 49.038426,
+    "longitude": -123.084297
+  },
+  {
+    "slug": "woodgrove",
+    "latitude": 49.236294543045354,
+    "longitude": -124.05085630249232
+  },
+  {
+    "slug": "mapleview",
+    "latitude": 43.325899,
+    "longitude": -79.822509
+  },
+  {
+    "slug": "cross-iron-mills",
+    "latitude": 51.2039293,
+    "longitude": -113.9939669
+  },
+  {
+    "slug": "centre-eaton",
+    "latitude": 45.502808,
+    "longitude": -73.5714859
+  },
+  {
+    "slug": "place-sainte-foy",
+    "latitude": 46.773563466431256,
+    "longitude": -71.27880070038374
+  },
+  {
+    "slug": "mapping-test-8",
+    "latitude": 43.483280380672944,
+    "longitude": -80.53451753687115
+  },
+  {
+    "slug": "kramer-design",
+    "latitude": 43.6740992,
+    "longitude": -79.4723191
+  },
+  {
+    "slug": "riocan-yonge-and-eglinton-centre",
+    "latitude": 43.7068303,
+    "longitude": -79.3991294
+  },
+  {
+    "slug": "oshawa-centre",
+    "latitude": 43.8905118,
+    "longitude": -78.8821389
+  },
+  {
+    "slug": "southgate-centre",
+    "latitude": 53.4855065,
+    "longitude": -113.5161802
+  },
+  {
+    "slug": "maxdata-retail",
+    "latitude": 67.311937,
+    "longitude": -102.475693
+  },
+  {
+    "slug": "bayshore-shopping-centre",
+    "latitude": 45.34768747844439,
+    "longitude": -75.8070293068886
+  },
+  {
+    "slug": "guildford-town-centre",
+    "latitude": 49.19021695150592,
+    "longitude": -122.803512019309
+  },
+  {
+    "slug": "laurier-quebec",
+    "latitude": 46.770598749656195,
+    "longitude": -71.28537742319169
+  },
+  {
+    "slug": "southcore-financial-centre",
+    "latitude": 43.6429691,
+    "longitude": -79.3860091
+  },
+  {
+    "slug": "oxford-demo"
+  },
+  {
+    "slug": "simon-training-property",
+    "latitude": 38.862966,
+    "longitude": -77.060991
+  },
+  {
+    "slug": "fgl-south-edmonton-common-308",
+    "latitude": 53.4417408,
+    "longitude": -113.485395
+  },
+  {
+    "slug": "fgl-cross-iron-mills-0248",
+    "latitude": 51.2039293,
+    "longitude": -113.9917729
+  },
+  {
+    "slug": "mappedin-kiosk-demo",
+    "latitude": 43.50105351366605,
+    "longitude": -80.62552568502726
+  },
+  {
+    "slug": "brad-harris",
+    "latitude": 43.4515328,
+    "longitude": -80.4972284
+  },
+  {
+    "slug": "mount-sinai",
+    "latitude": 43.657438,
+    "longitude": -79.390569
+  },
+  {
+    "slug": "idealab-quebec-convention-centre"
+  },
+  {
+    "slug": "conestogamall",
+    "latitude": 43.4990869950164,
+    "longitude": -80.52979588508606
+  },
+  {
+    "slug": "mappedin-retail-demo"
+  },
+  {
+    "slug": "impinj-lab",
+    "latitude": 47.6221494,
+    "longitude": -122.3343672
+  },
+  {
+    "slug": "oxford-les-galeries-de-la-capitale",
+    "latitude": 46.8307296,
+    "longitude": -71.3015317
+  },
+  {
+    "slug": "oxford-kingsway-mall",
+    "latitude": 53.562306,
+    "longitude": -113.505458
+  },
+  {
+    "slug": "training-resellers"
+  },
+  {
+    "slug": "oxford-edmonton-city-centre",
+    "latitude": 53.544146,
+    "longitude": -113.491955
+  },
+  {
+    "slug": "mic-mac-mall",
+    "latitude": 44.686389175808664,
+    "longitude": -63.55932533740997
+  },
+  {
+    "slug": "impinj-booth"
+  },
+  {
+    "slug": "mappedin-demo-retail"
+  },
+  {
+    "slug": "mappedin-demo-mixed"
+  },
+  {
+    "slug": "mappedin-demo-mall",
+    "latitude": 43.4867678,
+    "longitude": -80.5762221
+  },
+  {
+    "slug": "mayfair-mall",
+    "latitude": 48.446905,
+    "longitude": -123.369542
+  },
+  {
+    "slug": "outlet-collection-at-niagara",
+    "latitude": 43.158464,
+    "longitude": -79.174304
+  },
+  {
+    "slug": "carrefour-de-lestrie",
+    "latitude": 45.401628,
+    "longitude": -71.952717
+  },
+  {
+    "slug": "fgl-chinook-0310",
+    "latitude": 50.9974865,
+    "longitude": -114.0734386
+  },
+  {
+    "slug": "fgl-halifax-0274",
+    "latitude": 44.6492594,
+    "longitude": -63.6185536
+  },
+  {
+    "slug": "place-montreal-trust",
+    "latitude": 45.50179356844528,
+    "longitude": -73.57234408962542
+  },
+  {
+    "slug": "oxford-scarborough-town-centre",
+    "latitude": 43.776354,
+    "longitude": -79.258279
+  },
+  {
+    "slug": "indigo-sherway-gardens",
+    "latitude": 43.6132754,
+    "longitude": -79.5583261
+  },
+  {
+    "slug": "indigo-toronto-eaton-centre",
+    "latitude": 43.6538256,
+    "longitude": -79.3832004
+  },
+  {
+    "slug": "macerich-tysons-corner-center",
+    "latitude": 38.917828,
+    "longitude": -77.222237
+  },
+  {
+    "slug": "training"
+  },
+  {
+    "slug": "park-royal",
+    "latitude": 49.3248206,
+    "longitude": -123.1390082
+  },
+  {
+    "slug": "1-queen-street-east",
+    "latitude": 43.6522652,
+    "longitude": -79.3794737
+  },
+  {
+    "slug": "outlet-collection-winnipeg",
+    "latitude": 49.844398,
+    "longitude": -97.213011
+  },
+  {
+    "slug": "test-export",
+    "latitude": 39.731722,
+    "longitude": -105.158288
+  },
+  {
+    "slug": "oxford-yorkdale-shopping-centre",
+    "latitude": 43.7255,
+    "longitude": -79.4521
+  },
+  {
+    "slug": "oxford-hillcrest-mall",
+    "latitude": 43.8553033,
+    "longitude": -79.4379135
+  },
+  {
+    "slug": "oxford-les-promenades-gatineau",
+    "latitude": 45.475691,
+    "longitude": -75.6991307
+  },
+  {
+    "slug": "oxford-southcentre-mall",
+    "latitude": 50.950412,
+    "longitude": -114.0659182
+  },
+  {
+    "slug": "oxford-upper-canada-mall",
+    "latitude": 44.0563483,
+    "longitude": -79.4874948
+  },
+  {
+    "slug": "cf-the-windsor-station-office"
+  },
+  {
+    "slug": "west-edmonton-mall"
+  },
+  {
+    "slug": "cbl-coolsprings-galleria",
+    "latitude": 35.957342,
+    "longitude": -86.813531
+  },
+  {
+    "slug": "cbl-mayfaire",
+    "latitude": 34.243223,
+    "longitude": -77.830659
+  },
+  {
+    "slug": "dfs-galleria-canton-road"
+  },
+  {
+    "slug": "the-dubai-mall",
+    "latitude": 25.197016901946018,
+    "longitude": 55.279053060747906
+  },
+  {
+    "slug": "riocan-yonge-and-sheppard-centre",
+    "latitude": 43.7625088,
+    "longitude": -79.4105316
+  },
+  {
+    "slug": "riocan-oakville-place",
+    "latitude": 43.4615453,
+    "longitude": -79.6869834
+  },
+  {
+    "slug": "riocan-stock-yards-village",
+    "latitude": 43.6724096,
+    "longitude": -79.4685039
+  },
+  {
+    "slug": "riocan-mill-woods-towne-centre",
+    "latitude": 53.4557801,
+    "longitude": -113.4302847
+  },
+  {
+    "slug": "breeze-center-hq"
+  },
+  {
+    "slug": "breeze-center-taipei-station"
+  },
+  {
+    "slug": "wpg-polaris-fashion-place",
+    "latitude": 40.1457,
+    "longitude": -82.98129
+  },
+  {
+    "slug": "taubman-beverly-center",
+    "latitude": 34.075147,
+    "longitude": -118.377504
+  },
+  {
+    "slug": "tanger-locust-grove"
+  },
+  {
+    "slug": "tanger-grand-rapids"
+  },
+  {
+    "slug": "macdonald-island-park-fort-mcmurray",
+    "latitude": 56.7376719,
+    "longitude": -111.3850318
+  },
+  {
+    "slug": "simon-montrealpremiumoutlets",
+    "latitude": 45.673913,
+    "longitude": -73.919352
+  },
+  {
+    "slug": "simon-toronto",
+    "latitude": 43.575236,
+    "longitude": -79.829605
+  },
+  {
+    "slug": "miami-dolphins-stadium",
+    "latitude": 25.957933739028988,
+    "longitude": -80.23887276649475
+  },
+  {
+    "slug": "chicago-airport-terminal-5"
+  },
+  {
+    "slug": "mappedin-demo-mall-sales"
+  },
+  {
+    "slug": "regency-brick-walk",
+    "latitude": 41.143415,
+    "longitude": -73.254079
+  },
+  {
+    "slug": "tanger-blowing-rock",
+    "latitude": 36.140470929664446,
+    "longitude": -81.67018467105663
+  },
+  {
+    "slug": "tanger-branson",
+    "latitude": 36.645508,
+    "longitude": -93.264601
+  },
+  {
+    "slug": "tanger-commerce",
+    "latitude": 34.25165,
+    "longitude": -83.47253
+  },
+  {
+    "slug": "tanger-charleston",
+    "latitude": 32.873001,
+    "longitude": -80.018339
+  },
+  {
+    "slug": "tanger-daytona",
+    "latitude": 29.214248,
+    "longitude": -81.098602
+  },
+  {
+    "slug": "tanger-columbus",
+    "latitude": 40.260214,
+    "longitude": -82.925084
+  },
+  {
+    "slug": "tanger-gonzales",
+    "latitude": 30.212409,
+    "longitude": -90.950942
+  },
+  {
+    "slug": "westfield-valley-fair",
+    "latitude": 37.325087,
+    "longitude": -121.946273
+  },
+  {
+    "slug": "westfield-lax-terminal-6",
+    "latitude": 33.941441,
+    "longitude": -118.401977
+  },
+  {
+    "slug": "tanger-hershey"
+  },
+  {
+    "slug": "tanger-howell",
+    "latitude": 42.621881,
+    "longitude": -83.996897
+  },
+  {
+    "slug": "tanger-houston",
+    "latitude": 29.424684,
+    "longitude": -95.058344
+  },
+  {
+    "slug": "tanger-terrell",
+    "latitude": 32.702595,
+    "longitude": -96.283441
+  },
+  {
+    "slug": "regency-cameron-village",
+    "latitude": 35.7908085,
+    "longitude": -78.6605238
+  },
+  {
+    "slug": "onboarding-training"
+  },
+  {
+    "slug": "tanger-deer-park",
+    "latitude": 40.7631100933427,
+    "longitude": -73.30655290279539
+  },
+  {
+    "slug": "tanger-lancaster",
+    "latitude": 40.025171,
+    "longitude": -76.221488
+  },
+  {
+    "slug": "tanger-cookstown",
+    "latitude": 44.199034,
+    "longitude": -79.651131
+  },
+  {
+    "slug": "detroit-events-center",
+    "latitude": 42.34077476085048,
+    "longitude": -83.05568575859071
+  },
+  {
+    "slug": "tanger-foley",
+    "latitude": 30.375704,
+    "longitude": -87.679814
+  },
+  {
+    "slug": "tanger-jeffersonville",
+    "latitude": 39.620458,
+    "longitude": -83.601483
+  },
+  {
+    "slug": "tanger-mebane",
+    "latitude": 36.074542,
+    "longitude": -79.265998
+  },
+  {
+    "slug": "regency-brooklyn-station-on-riverside",
+    "latitude": 30.3234573,
+    "longitude": -81.6716562
+  },
+  {
+    "slug": "tanger-nags-head",
+    "latitude": 35.912285,
+    "longitude": -75.601677
+  },
+  {
+    "slug": "tanger-ocean-city",
+    "latitude": 38.337956,
+    "longitude": -75.106464
+  },
+  {
+    "slug": "tanger-ottawa",
+    "latitude": 45.29604181236789,
+    "longitude": -75.93589771538974
+  },
+  {
+    "slug": "tanger-foxwoods",
+    "latitude": 41.476644,
+    "longitude": -71.960311
+  },
+  {
+    "slug": "tanger-hilton-head",
+    "latitude": 32.245591,
+    "longitude": -80.832595
+  },
+  {
+    "slug": "tanger-myrtle-beach-hwy17",
+    "latitude": 33.750946,
+    "longitude": -78.958168
+  },
+  {
+    "slug": "tanger-myrtle-beach-hwy501",
+    "latitude": 33.750958,
+    "longitude": -78.958174
+  },
+  {
+    "slug": "tanger-national-harbor",
+    "latitude": 38.794613,
+    "longitude": -77.001144
+  },
+  {
+    "slug": "tanger-savannah",
+    "latitude": 32.134371,
+    "longitude": -81.243314
+  },
+  {
+    "slug": "tanger-memphis",
+    "latitude": 34.936238,
+    "longitude": -89.99153
+  },
+  {
+    "slug": "oeg-airport",
+    "latitude": 42.366456,
+    "longitude": -71.016497
+  },
+  {
+    "slug": "tanger-atlantic-city",
+    "latitude": 39.359789,
+    "longitude": -74.436814
+  },
+  {
+    "slug": "tanger-bromont",
+    "latitude": 45.335128,
+    "longitude": -72.65064
+  },
+  {
+    "slug": "tanger-park-city",
+    "latitude": 40.729165,
+    "longitude": -111.551784
+  },
+  {
+    "slug": "tanger-pittsburgh",
+    "latitude": 40.216593,
+    "longitude": -80.212651
+  },
+  {
+    "slug": "tanger-rehoboth",
+    "latitude": 38.71890755828176,
+    "longitude": -75.11248367853115
+  },
+  {
+    "slug": "tanger-riverhead",
+    "latitude": 40.919538,
+    "longitude": -72.71693
+  },
+  {
+    "slug": "tanger-saint-sauveur",
+    "latitude": 45.891389,
+    "longitude": -74.147667
+  },
+  {
+    "slug": "macerich-the-shops-at-north-bridge",
+    "latitude": 41.891657,
+    "longitude": -87.62469
+  },
+  {
+    "slug": "macerich-queens-center",
+    "latitude": 40.735002,
+    "longitude": -73.869589
+  },
+  {
+    "slug": "tanger-fort-worth",
+    "latitude": 33.021721,
+    "longitude": -97.280429
+  },
+  {
+    "slug": "tanger-san-marcos",
+    "latitude": 29.824052,
+    "longitude": -97.986999
+  },
+  {
+    "slug": "tanger-sevierville",
+    "latitude": 35.833317,
+    "longitude": -83.570831
+  },
+  {
+    "slug": "tanger-tilton",
+    "latitude": 43.459483,
+    "longitude": -71.559745
+  },
+  {
+    "slug": "tanger-westgate",
+    "latitude": 33.53347,
+    "longitude": -112.26672
+  },
+  {
+    "slug": "tanger-williamsburg",
+    "latitude": 41.689874,
+    "longitude": -92.005197
+  },
+  {
+    "slug": "macerich-flatiron-crossing",
+    "latitude": 39.930193,
+    "longitude": -105.130996
+  },
+  {
+    "slug": "barneys-new-york-madison-avenue",
+    "latitude": 40.764725,
+    "longitude": -73.9733176
+  },
+  {
+    "slug": "detroit-events-center-pistons",
+    "latitude": 42.341054,
+    "longitude": -83.055336
+  },
+  {
+    "slug": "detroit-events-center-concert",
+    "latitude": 42.341054,
+    "longitude": -83.055336
+  },
+  {
+    "slug": "macerich-arrowhead-towne-center",
+    "latitude": 33.642155,
+    "longitude": -112.225526
+  },
+  {
+    "slug": "macerich-stonewood-center",
+    "latitude": 33.936039,
+    "longitude": -118.119995
+  },
+  {
+    "slug": "macerich-lakewood-center",
+    "latitude": 33.849133,
+    "longitude": -118.143344
+  },
+  {
+    "slug": "macerich-los-cerritos-center",
+    "latitude": 33.862486,
+    "longitude": -118.09438
+  },
+  {
+    "slug": "macerich-the-oaks",
+    "latitude": 34.185287,
+    "longitude": -118.88869
+  },
+  {
+    "slug": "macerich-fashion-fair",
+    "latitude": 36.806832,
+    "longitude": -119.776038
+  },
+  {
+    "slug": "macerich-fashion-outlets-of-chicago",
+    "latitude": 41.975744,
+    "longitude": -87.865963
+  },
+  {
+    "slug": "macerich-arden-fair",
+    "latitude": 38.601729,
+    "longitude": -121.427895
+  },
+  {
+    "slug": "macerich-chandler-fashion-center",
+    "latitude": 33.301957,
+    "longitude": -111.898072
+  },
+  {
+    "slug": "macerich-danbury-fair",
+    "latitude": 41.380449,
+    "longitude": -73.48093
+  },
+  {
+    "slug": "macerich-deptford-mall",
+    "latitude": 39.828499,
+    "longitude": -75.097883
+  },
+  {
+    "slug": "macerich-freehold-raceway-mall",
+    "latitude": 40.253846,
+    "longitude": -74.300134
+  },
+  {
+    "slug": "macerich-green-acres-mall",
+    "latitude": 40.663133,
+    "longitude": -73.719152
+  },
+  {
+    "slug": "macerich-kings-plaza-shopping-center",
+    "latitude": 40.610623,
+    "longitude": -73.921051
+  },
+  {
+    "slug": "macerich-vintage-faire-mall",
+    "latitude": 37.686349,
+    "longitude": -121.051308
+  },
+  {
+    "slug": "macerich-biltmore-fashion-park",
+    "latitude": 33.51069,
+    "longitude": -112.028503
+  },
+  {
+    "slug": "macerich-broadway-plaza",
+    "latitude": 37.89534284639811,
+    "longitude": -122.05782961458682
+  },
+  {
+    "slug": "macerich-cross-country-shopping-center",
+    "latitude": 40.928678,
+    "longitude": -73.854324
+  },
+  {
+    "slug": "macerich-desert-sky-mall",
+    "latitude": 33.476773,
+    "longitude": -112.22469
+  },
+  {
+    "slug": "macerich-eastland-mall",
+    "latitude": 37.984671,
+    "longitude": -87.49566
+  },
+  {
+    "slug": "macerich-fashion-outlets-of-niagara-falls-usa",
+    "latitude": 43.096322,
+    "longitude": -78.984272
+  },
+  {
+    "slug": "macerich-inland-center",
+    "latitude": 34.08483,
+    "longitude": -117.297489
+  },
+  {
+    "slug": "macerich-kierland-commons",
+    "latitude": 33.624836,
+    "longitude": -111.930364
+  },
+  {
+    "slug": "macerich-la-cumbre-plaza",
+    "latitude": 34.438003,
+    "longitude": -119.747773
+  },
+  {
+    "slug": "macerich-la-encantada",
+    "latitude": 32.325027,
+    "longitude": -110.930124
+  },
+  {
+    "slug": "macerich-northpark-mall",
+    "latitude": 41.563578,
+    "longitude": -90.575627
+  },
+  {
+    "slug": "macerich-pacific-view",
+    "latitude": 34.268781,
+    "longitude": -119.248623
+  },
+  {
+    "slug": "macerich-paradise-valley-mall",
+    "latitude": 33.601362,
+    "longitude": -111.983396
+  },
+  {
+    "slug": "macerich-promenade-at-casa-grande",
+    "latitude": 32.880474,
+    "longitude": -111.682784
+  },
+  {
+    "slug": "macerich-santa-monica-place",
+    "latitude": 34.013867,
+    "longitude": -118.493844
+  },
+  {
+    "slug": "macerich-santan-village",
+    "latitude": 33.309071,
+    "longitude": -111.7427
+  },
+  {
+    "slug": "macerich-scottsdale-fashion-square",
+    "latitude": 33.503101,
+    "longitude": -111.929398
+  },
+  {
+    "slug": "macerich-south-plains-mall",
+    "latitude": 33.539706,
+    "longitude": -101.925645
+  },
+  {
+    "slug": "macerich-southpark-mall",
+    "latitude": 41.46652,
+    "longitude": -90.503622
+  },
+  {
+    "slug": "macerich-southridge-mall",
+    "latitude": 41.522875,
+    "longitude": -93.602832
+  },
+  {
+    "slug": "macerich-superstition-springs-center",
+    "latitude": 33.390853,
+    "longitude": -111.690288
+  },
+  {
+    "slug": "macerich-the-mall-of-victor-valley",
+    "latitude": 34.47359,
+    "longitude": -117.348231
+  },
+  {
+    "slug": "macerich-the-market-at-estrella-falls",
+    "latitude": 33.46735,
+    "longitude": -112.381084
+  },
+  {
+    "slug": "macerich-the-shops-at-atlas-park",
+    "latitude": 40.709693,
+    "longitude": -73.868354
+  },
+  {
+    "slug": "macerich-the-village-at-corte-madera",
+    "latitude": 37.92907637537842,
+    "longitude": -122.5135660171509
+  },
+  {
+    "slug": "macerich-towne-mall",
+    "latitude": 37.731994,
+    "longitude": -85.888666
+  },
+  {
+    "slug": "macerich-twenty-ninth-street",
+    "latitude": 40.017304,
+    "longitude": -105.255736
+  },
+  {
+    "slug": "macerich-valley-mall",
+    "latitude": 38.427715,
+    "longitude": -78.842833
+  },
+  {
+    "slug": "macerich-valley-river-center",
+    "latitude": 44.068706,
+    "longitude": -123.107427
+  },
+  {
+    "slug": "macerich-washington-square",
+    "latitude": 45.450548,
+    "longitude": -122.780819
+  },
+  {
+    "slug": "macerich-westside-pavillion",
+    "latitude": 34.04041,
+    "longitude": -118.42749
+  },
+  {
+    "slug": "macerich-wilton-mall",
+    "latitude": 43.102494,
+    "longitude": -73.73687
+  },
+  {
+    "slug": "vartech-2017",
+    "latitude": 28.4256818,
+    "longitude": -81.4367326
+  },
+  {
+    "slug": "cfleasing-training"
+  },
+  {
+    "slug": "mcarthurglen-roermond",
+    "latitude": 51.19983,
+    "longitude": 5.988816
+  },
+  {
+    "slug": "quartier-dix30",
+    "latitude": 45.442526,
+    "longitude": -73.438376
+  },
+  {
+    "slug": "yuexiu-foshan-dating-mall",
+    "latitude": 23.031438,
+    "longitude": 113.141783
+  },
+  {
+    "slug": "analytics-qa-mall"
+  },
+  {
+    "slug": "brookfield-place-calgary",
+    "latitude": 51.047,
+    "longitude": -114.067
+  },
+  {
+    "slug": "st-josephs-health-centre",
+    "latitude": 43.640072,
+    "longitude": -79.450314
+  },
+  {
+    "slug": "practice-mall-sarah",
+    "latitude": 28.445639,
+    "longitude": -81.395472
+  },
+  {
+    "slug": "standard-life-county-mall",
+    "latitude": 51.113581,
+    "longitude": -0.184931
+  },
+  {
+    "slug": "mappedin-demo-airport"
+  },
+  {
+    "slug": "mappedin-demo-hospital"
+  },
+  {
+    "slug": "portable-intelligence-office",
+    "latitude": 43.8356798,
+    "longitude": -79.3558145
+  },
+  {
+    "slug": "cora-test-venue",
+    "latitude": 7.091166946057526,
+    "longitude": 125.61183929443361
+  },
+  {
+    "slug": "mall-of-america",
+    "latitude": 44.854854,
+    "longitude": -93.242247
+  },
+  {
+    "slug": "bramalea-city-centre",
+    "latitude": 43.716589,
+    "longitude": -79.723921
+  },
+  {
+    "slug": "lot-42",
+    "latitude": 43.427289,
+    "longitude": -80.477695
+  },
+  {
+    "slug": "kingfisher-beckton",
+    "latitude": 51.519699,
+    "longitude": 0.07131
+  },
+  {
+    "slug": "mappedin-demo-outlet"
+  },
+  {
+    "slug": "mappedin-demo-tradeshow"
+  },
+  {
+    "slug": "lar-espana-portal-de-la-marina",
+    "latitude": 38.817852,
+    "longitude": 0.022527
+  },
+  {
+    "slug": "portable-intelligence-booth"
+  },
+  {
+    "slug": "new-horizon-mall",
+    "latitude": 51.198357,
+    "longitude": -113.996605
+  },
+  {
+    "slug": "riocan-burlington-mall",
+    "latitude": 43.3483513,
+    "longitude": -79.7935289
+  },
+  {
+    "slug": "premium-outlet-collection-edmonton",
+    "latitude": 53.303653,
+    "longitude": -113.553016
+  },
+  {
+    "slug": "qa-automation-testing"
+  },
+  {
+    "slug": "lisgar-collegiate-institute",
+    "latitude": 45.420892,
+    "longitude": -75.688816
+  },
+  {
+    "slug": "410-albert",
+    "latitude": 43.482934118025156,
+    "longitude": -80.53578391671182
+  },
+  {
+    "slug": "mappedin-demo-campus"
+  },
+  {
+    "slug": "express-image-trial-campus",
+    "latitude": 32.828066,
+    "longitude": -97.050714
+  },
+  {
+    "slug": "mcarthurglen-serravalle",
+    "latitude": 44.735311,
+    "longitude": 2.836859
+  },
+  {
+    "slug": "oxford-square-one",
+    "latitude": 43.593386,
+    "longitude": -79.64482
+  },
+  {
+    "slug": "indigo-short-hills",
+    "latitude": 40.73995627580375,
+    "longitude": -74.36224593257067
+  },
+  {
+    "slug": "mapping-team-training",
+    "latitude": 37.68793779153177,
+    "longitude": -121.05368233518676
+  },
+  {
+    "slug": "queens-university-iwc",
+    "latitude": 44.225541,
+    "longitude": -76.495313
+  },
+  {
+    "slug": "phill-test"
+  },
+  {
+    "slug": "kipling-catalyst-137",
+    "latitude": 43.452451,
+    "longitude": -80.514366
+  },
+  {
+    "slug": "vicinity-demo-mall"
+  },
+  {
+    "slug": "qic-canberra-centre",
+    "latitude": -35.2785995294784,
+    "longitude": 149.1334689687574
+  },
+  {
+    "slug": "tdm-perfumery-and-co",
+    "latitude": 25.198814,
+    "longitude": 55.276901
+  },
+  {
+    "slug": "marketing-demo-mall"
+  },
+  {
+    "slug": "intu-lakeside",
+    "latitude": 51.48727483857562,
+    "longitude": 0.2829442697111518
+  },
+  {
+    "slug": "vicinity-chadstone",
+    "latitude": -37.88643233164679,
+    "longitude": 145.08308008987242
+  },
+  {
+    "slug": "demo-playground"
+  },
+  {
+    "slug": "hudson-yards",
+    "latitude": 40.75366494501665,
+    "longitude": -74.00255039989135
+  },
+  {
+    "slug": "simon-denver-premium-outlets",
+    "latitude": 39.946605,
+    "longitude": -104.984553
+  },
+  {
+    "slug": "simon-the-offices-at-clearfork",
+    "latitude": 32.710687,
+    "longitude": -97.40388
+  },
+  {
+    "slug": "sonea-sierra-colombo-centre",
+    "latitude": 38.754579,
+    "longitude": -9.1908347
+  },
+  {
+    "slug": "sonea-sierra-dos-mares-centre",
+    "latitude": 37.820215,
+    "longitude": -0.8155515
+  },
+  {
+    "slug": "simon-punta-norte",
+    "latitude": 19.601249,
+    "longitude": -99.199726
+  },
+  {
+    "slug": "thoughtwire-demo"
+  },
+  {
+    "slug": "eastgate-shopping-centre",
+    "latitude": 43.230764,
+    "longitude": -79.765358
+  },
+  {
+    "slug": "duke-university",
+    "latitude": 36.001586,
+    "longitude": -78.939092
+  },
+  {
+    "slug": "vicinity-dfo-perth",
+    "latitude": -31.938774,
+    "longitude": 115.950035
+  },
+  {
+    "slug": "cuestamoras-oxigeno",
+    "latitude": 9.994383,
+    "longitude": -84.131537
+  },
+  {
+    "slug": "vicinity-northland-shopping-centre",
+    "latitude": -37.738219,
+    "longitude": 145.029882
+  },
+  {
+    "slug": "mcarthurglen-rosada",
+    "latitude": 51.531659,
+    "longitude": 4.428728
+  },
+  {
+    "slug": "mcarthurglen-troyes",
+    "latitude": 48.328468,
+    "longitude": 4.102268
+  },
+  {
+    "slug": "mcarthurglen-bridgend",
+    "latitude": 51.531953,
+    "longitude": -3.576087
+  },
+  {
+    "slug": "mcarthurglen-parndorf",
+    "latitude": 47.978402,
+    "longitude": 16.849126
+  },
+  {
+    "slug": "mcarthurglen-york",
+    "latitude": 53.922299,
+    "longitude": -1.077375
+  },
+  {
+    "slug": "mcarthurglen-cheshire-oaks",
+    "latitude": 53.264438,
+    "longitude": -2.881843
+  },
+  {
+    "slug": "mcarthurglen-athens",
+    "latitude": 37.985942,
+    "longitude": 23.910991
+  },
+  {
+    "slug": "miami-design-district",
+    "latitude": 25.813583,
+    "longitude": -80.193369
+  },
+  {
+    "slug": "mcarthurglen-swindon",
+    "latitude": 51.562691,
+    "longitude": -1.797826
+  },
+  {
+    "slug": "sonae-sierra-training",
+    "latitude": 37.820215,
+    "longitude": -0.8155515
+  },
+  {
+    "slug": "elemidia-cidade-jardim",
+    "latitude": -23.59899725651084,
+    "longitude": -46.69757957803086
+  },
+  {
+    "slug": "royal-centre",
+    "latitude": 49.2852539,
+    "longitude": -123.1212358
+  },
+  {
+    "slug": "loblaw-2810",
+    "latitude": 43.525502,
+    "longitude": -79.866318
+  },
+  {
+    "slug": "tanger-training"
+  },
+  {
+    "slug": "mcarthurglen-ashford",
+    "latitude": 51.136813,
+    "longitude": 0.878005
+  },
+  {
+    "slug": "mcarthurglen-neumunster",
+    "latitude": 54.042917,
+    "longitude": 9.977759
+  },
+  {
+    "slug": "mcarthurglen-berlin",
+    "latitude": 52.54054,
+    "longitude": 12.979666
+  },
+  {
+    "slug": "mcarthurglen-roubaix",
+    "latitude": 50.689853,
+    "longitude": 3.181399
+  },
+  {
+    "slug": "mcarthurglen-noventa",
+    "latitude": 45.671609,
+    "longitude": 12.537424
+  },
+  {
+    "slug": "mcarthurglen-salzburg",
+    "latitude": 47.792372,
+    "longitude": 12.990039
+  },
+  {
+    "slug": "mcarthurglen-east-midlands",
+    "latitude": 53.107166,
+    "longitude": -1.31064
+  },
+  {
+    "slug": "mcarthurglen-ochtrup",
+    "latitude": 52.210721,
+    "longitude": 7.198642
+  },
+  {
+    "slug": "mcarthurglen-barberino",
+    "latitude": 43.984796,
+    "longitude": 11.216101
+  },
+  {
+    "slug": "mcarthurglen-castel-romano",
+    "latitude": 41.71757,
+    "longitude": 12.445611
+  },
+  {
+    "slug": "mcarthurglen-la-reggia",
+    "latitude": 41.006835,
+    "longitude": 14.321532
+  },
+  {
+    "slug": "mcarthurglen-luxembourg",
+    "latitude": 49.610051,
+    "longitude": 5.808709
+  },
+  {
+    "slug": "mcarthurglen-provence",
+    "latitude": 43.594270605591475,
+    "longitude": 4.993195819606627
+  },
+  {
+    "slug": "mcarthurglen-vancouver",
+    "latitude": 49.197763,
+    "longitude": -123.140622
+  },
+  {
+    "slug": "sandbox-demo-1"
+  },
+  {
+    "slug": "ayala-fairview-mall",
+    "latitude": 14.736667,
+    "longitude": 121.06
+  },
+  {
+    "slug": "mappedin-demo-office",
+    "latitude": 43.48291383258132,
+    "longitude": -80.53578206614476
+  },
+  {
+    "slug": "vicinity-mandurah-forum",
+    "latitude": -32.535325,
+    "longitude": 115.741879
+  },
+  {
+    "slug": "ayala-the-30th",
+    "latitude": 14.580696,
+    "longitude": 121.064565
+  },
+  {
+    "slug": "jims-test"
+  },
+  {
+    "slug": "marys-test"
+  },
+  {
+    "slug": "macarthurglen-training"
+  },
+  {
+    "slug": "loblaw-577",
+    "latitude": 43.154548,
+    "longitude": -79.267639
+  },
+  {
+    "slug": "ayala-alabang-town-centre-mall",
+    "latitude": 14.423195,
+    "longitude": 121.029518
+  },
+  {
+    "slug": "ayala-trinoma",
+    "latitude": 14.652117,
+    "longitude": 121.033262
+  },
+  {
+    "slug": "washington-prime-clay-terrace",
+    "latitude": 39.99619,
+    "longitude": -86.1302
+  },
+  {
+    "slug": "washington-prime-jefferson-valley-mall",
+    "latitude": 41.32858,
+    "longitude": -73.80768
+  },
+  {
+    "slug": "washington-prime-scottsdale-quarter",
+    "latitude": 33.62306,
+    "longitude": -111.9246
+  },
+  {
+    "slug": "washington-prime-oklahoma",
+    "latitude": 35.53913,
+    "longitude": -97.53127
+  },
+  {
+    "slug": "taubman-san-juan",
+    "latitude": 18.412507,
+    "longitude": -66.026104
+  },
+  {
+    "slug": "kimco-dania-pointe",
+    "latitude": 26.051479,
+    "longitude": -80.16115
+  },
+  {
+    "slug": "sales-demo-outlet"
+  },
+  {
+    "slug": "sales-demo-retail"
+  },
+  {
+    "slug": "lcs-caisse-des-depots",
+    "latitude": 45.502511,
+    "longitude": -73.55873
+  },
+  {
+    "slug": "sponda-citycenter",
+    "latitude": 60.170069,
+    "longitude": 24.941657
+  },
+  {
+    "slug": "ayala-market-market",
+    "latitude": 14.549718,
+    "longitude": 121.055959
+  },
+  {
+    "slug": "riocan-lawrence-square",
+    "latitude": 43.7166569,
+    "longitude": -79.4472576
+  },
+  {
+    "slug": "ayala-bonifacio-high-street",
+    "latitude": 14.551789,
+    "longitude": 121.048726
+  },
+  {
+    "slug": "sonae-sierra-alexa",
+    "latitude": 52.519873,
+    "longitude": 13.415159
+  },
+  {
+    "slug": "sonae-sierra-8-avenida",
+    "latitude": 40.887996,
+    "longitude": -8.491849
+  },
+  {
+    "slug": "sonae-sierra-centro-vasco-da-gama",
+    "latitude": 38.767976,
+    "longitude": -9.097478
+  },
+  {
+    "slug": "sonae-sierra-grancasa",
+    "latitude": 41.671312,
+    "longitude": -0.890188
+  },
+  {
+    "slug": "ayala-center-cebu",
+    "latitude": 10.317967,
+    "longitude": 123.905618
+  },
+  {
+    "slug": "sm-megamall",
+    "latitude": 14.584855,
+    "longitude": 121.057054
+  },
+  {
+    "slug": "sonae-sierra-guimaraeshopping",
+    "latitude": 41.440289,
+    "longitude": -8.303311
+  },
+  {
+    "slug": "sm-aura-premier",
+    "latitude": 14.546688,
+    "longitude": 121.054372
+  },
+  {
+    "slug": "sm-city-north-edsa",
+    "latitude": 14.6573,
+    "longitude": 121.031545
+  },
+  {
+    "slug": "sonae-sierra-hofgarten-solingen",
+    "latitude": 51.171474,
+    "longitude": 7.082196
+  },
+  {
+    "slug": "sonae-sierra-loureshopping",
+    "latitude": 38.833698,
+    "longitude": -9.156446
+  },
+  {
+    "slug": "sonae-sierra-parque-atlantico",
+    "latitude": 37.747633,
+    "longitude": -25.675884
+  },
+  {
+    "slug": "sonae-sierra-park-lake",
+    "latitude": 44.420992,
+    "longitude": 26.150201
+  },
+  {
+    "slug": "sm-pampanga",
+    "latitude": 15.052593,
+    "longitude": 120.699094
+  },
+  {
+    "slug": "sm-lanang-premier",
+    "latitude": 7.098428,
+    "longitude": 125.631281
+  },
+  {
+    "slug": "sonae-sierra-valle-real",
+    "latitude": 43.42763,
+    "longitude": -3.838752
+  },
+  {
+    "slug": "sonae-sierra-cascaishopping",
+    "latitude": 38.739082,
+    "longitude": -9.398694
+  },
+  {
+    "slug": "sonae-sierra-coimbrashopping",
+    "latitude": 40.194102,
+    "longitude": -8.408853
+  },
+  {
+    "slug": "sonae-sierra-estacao-viana-shopping",
+    "latitude": 41.694477,
+    "longitude": -8.8331
+  },
+  {
+    "slug": "washington-prime-playground"
+  },
+  {
+    "slug": "sonae-sierra-madeirashopping"
+  },
+  {
+    "slug": "sonae-sierra-leiriashopping"
+  },
+  {
+    "slug": "sonae-sierra-loop5"
+  },
+  {
+    "slug": "sonae-sierra-maiashopping"
+  },
+  {
+    "slug": "sonae-sierra-munster-arkaden"
+  },
+  {
+    "slug": "sonae-sierra-riosul-shopping"
+  },
+  {
+    "slug": "sonae-sierra-nova-arcada"
+  },
+  {
+    "slug": "sonae-sierra-norteshopping",
+    "latitude": 41.180827,
+    "longitude": -8.654556
+  },
+  {
+    "slug": "sonae-sierra-algarveshopping",
+    "latitude": 37.12738010407831,
+    "longitude": -8.28038590828795
+  },
+  {
+    "slug": "sonae-sierra-arrabidashopping"
+  },
+  {
+    "slug": "sonae-sierra-gaiashopping"
+  },
+  {
+    "slug": "sonae-sierra-luz-del-tajo"
+  },
+  {
+    "slug": "sonae-sierra-max-center"
+  },
+  {
+    "slug": "sona-sierra-serra-shopping"
+  },
+  {
+    "slug": "sonae-sierra-viacatarina-shopping"
+  },
+  {
+    "slug": "sonae-sierra-gli-orsi"
+  },
+  {
+    "slug": "sonae-sierra-le-terrazze"
+  },
+  {
+    "slug": "sonae-sierra-plaza-mayor"
+  },
+  {
+    "slug": "sonae-sierra-river-plaza-mall"
+  },
+  {
+    "slug": "sonae-sierra-serra-shopping"
+  },
+  {
+    "slug": "riocan-georgian-mall",
+    "latitude": 44.4131518,
+    "longitude": -79.7080191
+  },
+  {
+    "slug": "aecom-brookfield-place"
+  },
+  {
+    "slug": "gpt-rouse-hill-town-centre",
+    "latitude": -33.690290752167904,
+    "longitude": 150.9262867769212
+  },
+  {
+    "slug": "mappedin-demo-mall-2",
+    "latitude": 43.521574590690584,
+    "longitude": -80.53625699132682
+  },
+  {
+    "slug": "ayala-harbor-point"
+  },
+  {
+    "slug": "ayala-marikina"
+  },
+  {
+    "slug": "ayala-the-district-north-point"
+  },
+  {
+    "slug": "ayala-metropoint"
+  },
+  {
+    "slug": "ayala-serin"
+  },
+  {
+    "slug": "ayala-glorietta"
+  },
+  {
+    "slug": "ayala-serendra"
+  },
+  {
+    "slug": "ayala-abreeza"
+  },
+  {
+    "slug": "ayala-feliz"
+  },
+  {
+    "slug": "ayala-the-district-imus"
+  },
+  {
+    "slug": "aecom-ibm-barfield"
+  },
+  {
+    "slug": "jll-rosedale-center"
+  },
+  {
+    "slug": "sync-platform-test",
+    "latitude": 43.51186335826453,
+    "longitude": -80.60834437608719
+  },
+  {
+    "slug": "mappedin-demo-mall-3"
+  },
+  {
+    "slug": "ayala-centrio"
+  },
+  {
+    "slug": "ayala-marquee"
+  },
+  {
+    "slug": "ayala-cloverleaf"
+  },
+  {
+    "slug": "ayala-up-town-center"
+  },
+  {
+    "slug": "cominar-rockland"
+  },
+  {
+    "slug": "ayala-solenad"
+  },
+  {
+    "slug": "ayala-legazpi"
+  },
+  {
+    "slug": "canadienne-parque-arauco"
+  },
+  {
+    "slug": "kimco-testing-venue"
+  },
+  {
+    "slug": "new-venue"
+  },
+  {
+    "slug": "intu-playground"
+  },
+  {
+    "slug": "ayala-pavilion",
+    "latitude": 14.327476,
+    "longitude": 121.087702
+  },
+  {
+    "slug": "ayala-circuit",
+    "latitude": 14.575289,
+    "longitude": 121.019476
+  },
+  {
+    "slug": "ayala-greenbelt",
+    "latitude": 14.552948,
+    "longitude": 121.021023
+  },
+  {
+    "slug": "ayala-vertis",
+    "latitude": 14.651997,
+    "longitude": 121.035794
+  },
+  {
+    "slug": "ayala-one-bonifacio-high-street",
+    "latitude": 14.551588,
+    "longitude": 121.047599
+  },
+  {
+    "slug": "queens-university-playground"
+  },
+  {
+    "slug": "south-coast-plaza"
+  },
+  {
+    "slug": "express-image-az-office",
+    "latitude": 23.026973894707837,
+    "longitude": 72.5242194600287
+  },
+  {
+    "slug": "ayala-the-district-dasmarinas",
+    "latitude": 14.36018,
+    "longitude": 120.982071
+  },
+  {
+    "slug": "ayala-capitol-central",
+    "latitude": 10.677487,
+    "longitude": 122.949904
+  },
+  {
+    "slug": "demo-lcs"
+  },
+  {
+    "slug": "macys-demo-store"
+  },
+  {
+    "slug": "mappedin-demo-cruise"
+  },
+  {
+    "slug": "demo-mall-integrations",
+    "latitude": 0
+  },
+  {
+    "slug": "ayala-north-exchange"
+  },
+  {
+    "slug": "miami-design-playground"
+  },
+  {
+    "slug": "lcs-groupe-liebot"
+  },
+  {
+    "slug": "merrion-centre"
+  },
+  {
+    "slug": "customer-success-training",
+    "latitude": 43.448221643997805,
+    "longitude": -80.46564247459175
+  },
+  {
+    "slug": "henry-b-gonzalez-convention-center"
+  },
+  {
+    "slug": "simon-queretaro"
+  },
+  {
+    "slug": "chartwell-hq"
+  },
+  {
+    "slug": "groupe-mach-carrefour-de-lestrie",
+    "latitude": 45.401628,
+    "longitude": -71.952717
+  },
+  {
+    "slug": "mappedin-demo-emergency-response"
+  },
+  {
+    "slug": "mary_phill_testing"
+  },
+  {
+    "slug": "vicinity-chatswood-chase-sydney",
+    "latitude": -33.79409203834434,
+    "longitude": 151.18571251630786
+  },
+  {
+    "slug": "vicinity-dfo-moorabbin",
+    "latitude": -37.97101474448241,
+    "longitude": 145.08834031526933
+  },
+  {
+    "slug": "vicinity-dfo-south-wharf",
+    "latitude": -37.82494981889119,
+    "longitude": 144.9498902074993
+  },
+  {
+    "slug": "vicinity-queensplaza",
+    "latitude": -27.46822821056478,
+    "longitude": 153.02612961502746
+  },
+  {
+    "slug": "vicinity-dfo-homebush",
+    "latitude": -33.85583165675166,
+    "longitude": 151.07709646224978
+  },
+  {
+    "slug": "vicinity-dfo-essendon",
+    "latitude": -37.73350433692455,
+    "longitude": 144.90776360034945
+  },
+  {
+    "slug": "vicinity-dfo-brisbane",
+    "latitude": -27.414840862298224,
+    "longitude": 153.0798569385661
+  },
+  {
+    "slug": "vicinity-the-strand-arcade",
+    "latitude": -33.86941781007646,
+    "longitude": 151.20765091676734
+  },
+  {
+    "slug": "vicinity-warriewood-square",
+    "latitude": -33.69598033097524,
+    "longitude": 151.295945586171
+  },
+  {
+    "slug": "vicinity-altona-gate",
+    "latitude": -37.82722616006519,
+    "longitude": 144.84777331352237
+  },
+  {
+    "slug": "vicinity-armidale-central",
+    "latitude": -30.511723229502305,
+    "longitude": 151.66271893769593
+  },
+  {
+    "slug": "vicinity-bankstown-central",
+    "latitude": -33.9158603992079,
+    "longitude": 151.0385270928964
+  },
+  {
+    "slug": "vicinity-bayside",
+    "latitude": -38.14157072746304,
+    "longitude": 145.12484551523815
+  },
+  {
+    "slug": "vicinity-boxhill",
+    "latitude": -37.81911155456309,
+    "longitude": 145.12133181095126
+  },
+  {
+    "slug": "vicinity-broadmeadows-central",
+    "latitude": -37.67963426391372,
+    "longitude": 144.9197691679001
+  },
+  {
+    "slug": "vicinity-buranda-village",
+    "latitude": -27.500725063440793,
+    "longitude": 153.0364488065243
+  },
+  {
+    "slug": "vicinity-carlingford-court",
+    "latitude": -33.77625518005294,
+    "longitude": 151.0522906703409
+  },
+  {
+    "slug": "vicinity-castle-plaza",
+    "latitude": -34.98148699130569,
+    "longitude": 138.57257366180423
+  },
+  {
+    "slug": "vicinity-colonnades",
+    "latitude": -35.14187106151564,
+    "longitude": 138.49649548530581
+  },
+  {
+    "slug": "vicinity-corio-central",
+    "latitude": -38.075361118651394,
+    "longitude": 144.3564274907112
+  },
+  {
+    "slug": "vicinity-cranbourne-park",
+    "latitude": -38.10859389671393,
+    "longitude": 145.28218388557437
+  },
+  {
+    "slug": "vicinity-emporium-melbourne",
+    "latitude": -37.81237724768169,
+    "longitude": 144.9637513817288
+  },
+  {
+    "slug": "vicinity-queen-victoria-building",
+    "latitude": -33.87190890643955,
+    "longitude": 151.20683621149513
+  },
+  {
+    "slug": "vicinity-the-galeries",
+    "latitude": -33.87262078651822,
+    "longitude": 151.20749102148696
+  },
+  {
+    "slug": "value-retail-bicester-village",
+    "latitude": 51.89176,
+    "longitude": -1.15556
+  },
+  {
+    "slug": "qic-robina-town-centre",
+    "latitude": -28.077712084908363,
+    "longitude": 153.38516838499348
+  },
+  {
+    "slug": "qic-eastland",
+    "latitude": -37.813084942535184,
+    "longitude": 145.22901590215045
+  },
+  {
+    "slug": "qic-castle-towers",
+    "latitude": -33.73088916525148,
+    "longitude": 151.00623857695612
+  },
+  {
+    "slug": "qic-westpoint",
+    "latitude": -33.77045395377799,
+    "longitude": 150.90591948595832
+  },
+  {
+    "slug": "qic-grand-central",
+    "latitude": -27.561750577800417,
+    "longitude": 151.94982290267947
+  },
+  {
+    "slug": "qic-hyperdome",
+    "latitude": -27.658685740933496,
+    "longitude": 153.17198753356936
+  },
+  {
+    "slug": "qic-watergardens-town-centre",
+    "latitude": -37.699827379755575,
+    "longitude": 144.77448667748834
+  },
+  {
+    "slug": "qic-woodgrove",
+    "latitude": -37.686036381943296,
+    "longitude": 144.5636630058289
+  },
+  {
+    "slug": "walter-e-washington-convention-center",
+    "latitude": 38.905131595947076,
+    "longitude": -77.02305025421083
+  },
+  {
+    "slug": "vicinity-roselands",
+    "latitude": -33.935669537274336,
+    "longitude": 151.06894791126254
+  },
+  {
+    "slug": "daniels-waterfront",
+    "latitude": 43.64498205359696,
+    "longitude": -79.36842819672167
+  },
+  {
+    "slug": "ayala-manila-bay",
+    "latitude": 14.523362277103917,
+    "longitude": 120.98818153899632
+  },
+  {
+    "slug": "yorkville-village",
+    "latitude": 43.67163230383668,
+    "longitude": -79.39451827201995
+  },
+  {
+    "slug": "vicinity-dianella-plaza",
+    "latitude": -31.89529346834911,
+    "longitude": 115.87215933948757
+  },
+  {
+    "slug": "vicinity-ellenbrook-central",
+    "latitude": -31.782894487151466,
+    "longitude": 115.97051024436952
+  },
+  {
+    "slug": "vicinity-sunshine-marketplace",
+    "latitude": -37.78155410652851,
+    "longitude": 144.83049130387374
+  },
+  {
+    "slug": "vicinity-runaway-bay-centre",
+    "latitude": -27.913815065282556,
+    "longitude": 153.4005278348923
+  },
+  {
+    "slug": "vicinity-the-myer-centre-brisbane",
+    "latitude": -27.470801023726477,
+    "longitude": 153.02466452121737
+  },
+  {
+    "slug": "vicinity-eastlands",
+    "latitude": -42.866721164055114,
+    "longitude": 147.36884057521823
+  },
+  {
+    "slug": "vicinity-galleria",
+    "latitude": -31.897152670390838,
+    "longitude": 115.8997964859009
+  },
+  {
+    "slug": "vicinity-milton-village",
+    "latitude": -27.468437053295652,
+    "longitude": 153.00240556706743
+  },
+  {
+    "slug": "vicinity-riverside-plaza",
+    "latitude": -35.35168752343694,
+    "longitude": 149.23475220159165
+  },
+  {
+    "slug": "vicinity-the-glen",
+    "latitude": -37.875618166006554,
+    "longitude": 145.16507595777514
+  },
+  {
+    "slug": "vicinity-victoria-gardens-shopping-centre",
+    "latitude": -37.81353318936062,
+    "longitude": 145.01036838395524
+  },
+  {
+    "slug": "vicinity-elizabeth-city-centre",
+    "latitude": -34.718572529546485,
+    "longitude": 138.66914123296738
+  },
+  {
+    "slug": "vicinity-grand-plaza",
+    "latitude": -27.662819396751548,
+    "longitude": 153.0403393507004
+  },
+  {
+    "slug": "vicinity-karratha-city",
+    "latitude": -20.735058566835118,
+    "longitude": 116.84617299120875
+  },
+  {
+    "slug": "vicinity-kurralta-central",
+    "latitude": -34.956362228431374,
+    "longitude": 138.5652107004353
+  },
+  {
+    "slug": "vicinity-lake-haven-centre",
+    "latitude": -33.24143787381265,
+    "longitude": 151.50428116321567
+  },
+  {
+    "slug": "vicinity-livingston-marketplace",
+    "latitude": -32.08676966705156,
+    "longitude": 115.91698944568635
+  },
+  {
+    "slug": "vicinity-midland-gate",
+    "latitude": -31.89025480364463,
+    "longitude": 116.00987568497659
+  },
+  {
+    "slug": "vicinity-mildura-central",
+    "latitude": -34.20744571166916,
+    "longitude": 142.13920891284945
+  },
+  {
+    "slug": "vicinity-mornington-central",
+    "latitude": -38.21862999853479,
+    "longitude": 145.0393837457523
+  },
+  {
+    "slug": "vicinity-mount-pleasant-centre",
+    "latitude": -21.119121289055087,
+    "longitude": 149.1587671637535
+  },
+  {
+    "slug": "vicinity-mt-ommaney-centre",
+    "latitude": -27.5491287080945,
+    "longitude": 152.93759513413534
+  },
+  {
+    "slug": "vicinity-nepean-village",
+    "latitude": -33.75750484966673,
+    "longitude": 150.69237182149664
+  },
+  {
+    "slug": "vicinity-northgate",
+    "latitude": -42.83199525520332,
+    "longitude": 147.2733950616021
+  },
+  {
+    "slug": "vicinity-oakleigh-central",
+    "latitude": -37.901053,
+    "longitude": 145.090994
+  },
+  {
+    "slug": "vicinity-rockingham-centre",
+    "latitude": -32.28912346761955,
+    "longitude": 115.74547022581102
+  },
+  {
+    "slug": "vicinity-roxburgh-village",
+    "latitude": -37.63928526910338,
+    "longitude": 144.93170625530183
+  },
+  {
+    "slug": "vicinity-taigum-square",
+    "latitude": -27.350182360030583,
+    "longitude": 153.047942477333
+  },
+  {
+    "slug": "vicinity-victoria-park-central",
+    "latitude": -31.973806173746357,
+    "longitude": 115.89803634909914
+  },
+  {
+    "slug": "vicinity-warwick-grove",
+    "latitude": -31.843782416169343,
+    "longitude": 115.81031519963292
+  },
+  {
+    "slug": "vicinity-whitsunday-plaza",
+    "latitude": -20.29045778120045,
+    "longitude": 148.6740452446975
+  },
+  {
+    "slug": "mcarthurglen-malaga",
+    "latitude": 36.6572473972629,
+    "longitude": -4.478700261042833
+  },
+  {
+    "slug": "preit-fashion-district-philadelphia",
+    "latitude": 39.952037031424716,
+    "longitude": -75.1563647738658
+  },
+  {
+    "slug": "value-retail-kildare-village",
+    "latitude": 53.15367190834493,
+    "longitude": -6.916918102870114
+  },
+  {
+    "slug": "value-retail-la-vallee-village",
+    "latitude": 48.853224202267086,
+    "longitude": 2.7830508118495354
+  },
+  {
+    "slug": "value-retail-wertheim-village",
+    "latitude": 49.775213088193944,
+    "longitude": 9.577435200917536
+  },
+  {
+    "slug": "value-retail-ingolstadt-village",
+    "latitude": 48.78406770753021,
+    "longitude": 11.478807055391373
+  },
+  {
+    "slug": "value-retail-fidenza-village",
+    "latitude": 44.883845019208586,
+    "longitude": 10.09122307703365
+  },
+  {
+    "slug": "value-retail-la-roca-village",
+    "latitude": 41.61087685092744,
+    "longitude": 2.344374898821116
+  },
+  {
+    "slug": "value-retail-las-rozas-village",
+    "latitude": 40.518230651018776,
+    "longitude": -3.9011146780103454
+  },
+  {
+    "slug": "value-retail-maasmechelen-village",
+    "latitude": 51.00210516248971,
+    "longitude": 5.708878040313722
+  },
+  {
+    "slug": "gpt-casuarina-square",
+    "latitude": -12.375153289762183,
+    "longitude": 130.88145964429717
+  },
+  {
+    "slug": "gpt-charlestown-square",
+    "latitude": -32.963994768589764,
+    "longitude": 151.6939157713205
+  },
+  {
+    "slug": "gpt-highpoint-shopping-centre",
+    "latitude": -37.773325432637286,
+    "longitude": 144.88839197454584
+  },
+  {
+    "slug": "gpt-melbourne-central",
+    "latitude": -37.81082653308072,
+    "longitude": 144.963151216507
+  },
+  {
+    "slug": "gpt-wollongong-central",
+    "latitude": -34.42493352710935,
+    "longitude": 150.89381265454
+  },
+  {
+    "slug": "gpt-chirnside-park",
+    "latitude": -37.7574665368336,
+    "longitude": 145.31360864639285
+  },
+  {
+    "slug": "gpt-parkmore-shopping-centre",
+    "latitude": -37.9924762591703,
+    "longitude": 145.17339885234836
+  },
+  {
+    "slug": "saks-fifth-avenue",
+    "latitude": 40.75792389832863,
+    "longitude": -73.97676709570078
+  },
+  {
+    "slug": "intu-metrocentre",
+    "latitude": 54.957560689122985,
+    "longitude": -1.6698968419223097
+  },
+  {
+    "slug": "ayala-malls-central-bloc",
+    "latitude": 10.330141623222683,
+    "longitude": 123.90692532062532
+  },
+  {
+    "slug": "thoughtwire-office",
+    "latitude": 43.65084792912699,
+    "longitude": -79.37123447656631
+  },
+  {
+    "slug": "mall-of-africa"
+  },
+  {
+    "slug": "mappedin-demo-retail-2",
+    "latitude": 43.48295509335887,
+    "longitude": -80.53730964638817
+  },
+  {
+    "slug": "mappedin-demo-stadium",
+    "latitude": 43.649359546594575,
+    "longitude": -79.32404478080572
+  },
+  {
+    "slug": "improve-canada",
+    "latitude": 43.78718815093322,
+    "longitude": -79.49773728869333
+  },
+  {
+    "slug": "mohawk-college-stoney-creek",
+    "latitude": 43.22693115602072,
+    "longitude": -79.7136777592823
+  },
+  {
+    "slug": "mohawk-college-fennell-campus",
+    "latitude": 43.23829297115377,
+    "longitude": -79.88771771080792
+  },
+  {
+    "slug": "100-adelaide",
+    "latitude": 43.64995275706023,
+    "longitude": -79.38257452100517
+  },
+  {
+    "slug": "internal-training-1"
+  },
+  {
+    "slug": "internal-training-2",
+    "latitude": 37.68787879892666,
+    "longitude": -121.05317831039429
+  },
+  {
+    "slug": "internal-training-3",
+    "latitude": 37.68784263691327,
+    "longitude": -121.05372857251497
+  },
+  {
+    "slug": "internal-training-4",
+    "latitude": 37.68778965077152,
+    "longitude": -121.05458915233613
+  },
+  {
+    "slug": "internal-training-5",
+    "latitude": 37.687836340700876,
+    "longitude": -121.05317524903514
+  },
+  {
+    "slug": "internal-training-6",
+    "latitude": 43.65075035294928,
+    "longitude": -79.58892371534604
+  },
+  {
+    "slug": "internal-training-7",
+    "latitude": 37.68843491118954,
+    "longitude": -121.05420291423799
+  },
+  {
+    "slug": "225-king"
+  },
+  {
+    "slug": "thoughtwire-playground"
+  },
+  {
+    "slug": "aliansce-sonae-carioca-shopping",
+    "latitude": -22.8496908550435,
+    "longitude": -43.311079828999944
+  },
+  {
+    "slug": "center-for-intelligent-buildings",
+    "latitude": 26.881938440678052,
+    "longitude": -80.12506193888841
+  },
+  {
+    "slug": "cedar-point-sports-center",
+    "latitude": 41.433223155274085,
+    "longitude": -82.65831219730899
+  },
+  {
+    "slug": "miromar-outlets",
+    "latitude": 26.43607544420414,
+    "longitude": -81.77422116918025
+  },
+  {
+    "slug": "cs-playground",
+    "latitude": 37.68782542415559,
+    "longitude": -121.05364394967184
+  },
+  {
+    "slug": "grandscape",
+    "latitude": 33.07432536104204,
+    "longitude": -96.86439592478565
+  },
+  {
+    "slug": "mlb-arlington",
+    "latitude": 32.74727891853432,
+    "longitude": -97.08431258884958
+  },
+  {
+    "slug": "mlb-los-angeles",
+    "latitude": 34.07355374305477,
+    "longitude": -118.23991533718072
+  },
+  {
+    "slug": "mlb-cincinnati",
+    "latitude": 39.097174439128885,
+    "longitude": -84.5067822933197
+  },
+  {
+    "slug": "mlb-seattle",
+    "latitude": 47.591295173424655,
+    "longitude": -122.33218747365754
+  },
+  {
+    "slug": "mlb-oakland",
+    "latitude": 37.75143535951552,
+    "longitude": -122.20088481903078
+  },
+  {
+    "slug": "mlb-chicago",
+    "latitude": 41.948169208853,
+    "longitude": -87.65553941717373
+  },
+  {
+    "slug": "mlb-miami",
+    "latitude": 25.778112634904478,
+    "longitude": -80.2199551044032
+  },
+  {
+    "slug": "mlb-houston",
+    "latitude": 29.7572967152481,
+    "longitude": -95.35534606548026
+  },
+  {
+    "slug": "mlb-nyc",
+    "latitude": 40.757016199686156,
+    "longitude": -73.84594758035746
+  },
+  {
+    "slug": "mlb-chicago-2",
+    "latitude": 41.83003702934709,
+    "longitude": -87.63380214571953
+  },
+  {
+    "slug": "manulife-centre",
+    "latitude": 43.66907022116551,
+    "longitude": -79.38827181584203
+  },
+  {
+    "slug": "shibuya-station",
+    "latitude": 35.65735452849322,
+    "longitude": 139.70307774958204
+  },
+  {
+    "slug": "zenrin-office",
+    "latitude": 35.69764858190717,
+    "longitude": 139.76716924924406
+  },
+  {
+    "slug": "mlb-kansas-city",
+    "latitude": 39.05147007764281,
+    "longitude": -94.48050933424385
+  },
+  {
+    "slug": "zenrin-playground",
+    "latitude": 35.64597746724159,
+    "longitude": 139.70927524496804
+  },
+  {
+    "slug": "mlb-phoenix",
+    "latitude": 33.44526529041679,
+    "longitude": -112.0668227307033
+  },
+  {
+    "slug": "mlb-boston",
+    "latitude": 42.346575223875305,
+    "longitude": -71.09729227144271
+  },
+  {
+    "slug": "mlb-toronto",
+    "latitude": 43.64141714294852,
+    "longitude": -79.3890953063965
+  },
+  {
+    "slug": "mlb-cleveland",
+    "latitude": 41.49604091500032,
+    "longitude": -81.68526548914089
+  },
+  {
+    "slug": "mlb-denver",
+    "latitude": 39.75609843675691,
+    "longitude": -104.99420821666719
+  },
+  {
+    "slug": "mlb-detroit",
+    "latitude": 42.33913516232142,
+    "longitude": -83.04891586303712
+  },
+  {
+    "slug": "mlb-atlanta",
+    "latitude": 33.89054560537947,
+    "longitude": -84.46758449077606
+  },
+  {
+    "slug": "mlb-milwaukee",
+    "latitude": 43.028279320693606,
+    "longitude": -87.97137220040896
+  },
+  {
+    "slug": "mlb-minneapolis",
+    "latitude": 44.98148641647946,
+    "longitude": -93.27772647142413
+  },
+  {
+    "slug": "mlb-pittsburgh",
+    "latitude": 40.44684091816594,
+    "longitude": -80.00583171844484
+  },
+  {
+    "slug": "mlb-san-diego",
+    "latitude": 32.70762460422664,
+    "longitude": -117.15682585258038
+  },
+  {
+    "slug": "mlb-st-louis",
+    "latitude": 38.62253913126961,
+    "longitude": -90.19300907850267
+  },
+  {
+    "slug": "mlb-washington",
+    "latitude": 38.87282597322986,
+    "longitude": -77.0075297355652
+  },
+  {
+    "slug": "customer-support-playground",
+    "latitude": 37.687855008580385,
+    "longitude": -121.0536321390464
+  },
+  {
+    "slug": "dana-farber",
+    "latitude": 42.33769082857364,
+    "longitude": -71.10733870533296
+  },
+  {
+    "slug": "playground"
+  },
+  {
+    "slug": "tw-12room",
+    "latitude": 43.482710309725185,
+    "longitude": -80.53583085536958
+  },
+  {
+    "slug": "manulife-500-king-n",
+    "latitude": 43.4911623573957,
+    "longitude": -80.52618520217948
+  },
+  {
+    "slug": "vancouver-centre-ii",
+    "latitude": 49.28190492200055,
+    "longitude": -123.11795353889467
+  },
+  {
+    "slug": "vancouver-shipyards-50p",
+    "latitude": 49.3131358390379,
+    "longitude": -123.10742259040128
+  },
+  {
+    "slug": "etech-san-francisco"
+  },
+  {
+    "slug": "turnberry-aventura-mall",
+    "latitude": 25.957533824571453,
+    "longitude": -80.14228965737858
+  },
+  {
+    "slug": "intu-victoria-centre"
+  },
+  {
+    "slug": "value-retail-playground"
+  },
+  {
+    "slug": "japan-rail",
+    "latitude": 35.70781052231101,
+    "longitude": 139.7032803297043
+  },
+  {
+    "slug": "centrale-and-whitgift"
+  },
+  {
+    "slug": "nebraska-crossing-outlets",
+    "latitude": 41.098006131588825,
+    "longitude": -96.24900519847871
+  },
+  {
+    "slug": "river-mall",
+    "latitude": 50.40534820244831,
+    "longitude": 30.611316561698917
+  },
+  {
+    "slug": "blundstone-arena",
+    "latitude": -42.87759552793882,
+    "longitude": 147.37409949259018
+  },
+  {
+    "slug": "siam-paragon",
+    "latitude": 13.746612522347174,
+    "longitude": 100.53466558456422
+  },
+  {
+    "slug": "vicinity-gympie-central",
+    "latitude": -26.199113218592657,
+    "longitude": 152.667771067936
+  },
+  {
+    "slug": "vicinity-halls-head-central",
+    "latitude": -32.54862557309577,
+    "longitude": 115.70251893368551
+  },
+  {
+    "slug": "vicinity-maddington-central",
+    "latitude": -32.05303670868064,
+    "longitude": 115.97829303005712
+  },
+  {
+    "slug": "sm-city-clark",
+    "latitude": 15.168838445747253,
+    "longitude": 120.58016435941683
+  },
+  {
+    "slug": "invensense-northland",
+    "latitude": 51.09778881369825,
+    "longitude": -114.14432768867474
+  },
+  {
+    "slug": "mappedin-demo-city",
+    "latitude": 27.76068695761585,
+    "longitude": -80.40191503241658
+  },
+  {
+    "slug": "rail-demo",
+    "latitude": 48.14036433267673,
+    "longitude": 11.558832437731327
+  },
+  {
+    "slug": "warehouse-demo",
+    "latitude": 43.48256240117626,
+    "longitude": -80.53703248500825
+  },
+  {
+    "slug": "mappedin-demo-entertainment-park",
+    "latitude": 43.843058849945784,
+    "longitude": -79.54136686865242
+  },
+  {
+    "slug": "cf-test-demo",
+    "latitude": 44.69978072533482,
+    "longitude": -73.45351517211385
+  },
+  {
+    "slug": "mlb-phi",
+    "latitude": 39.905838484356,
+    "longitude": -75.1663452389039
+  },
+  {
+    "slug": "jamestown-the-shops-buckhead",
+    "latitude": 33.838662273503644,
+    "longitude": -84.3793154123705
+  },
+  {
+    "slug": "cf-testing-environment",
+    "latitude": 43.65374736717302,
+    "longitude": -79.38127838540824
+  },
+  {
+    "slug": "siam-center",
+    "latitude": 13.746225177820136,
+    "longitude": 100.53281950706152
+  },
+  {
+    "slug": "siam-car-park",
+    "latitude": 13.746703517266472,
+    "longitude": 100.53287086193453
+  },
+  {
+    "slug": "siam-icon",
+    "latitude": 13.726701361367214,
+    "longitude": 100.51031112670898
+  },
+  {
+    "slug": "siam-discovery",
+    "latitude": 13.746650879347158,
+    "longitude": 100.53149580957326
+  },
+  {
+    "slug": "kardinia-park",
+    "latitude": -38.157831664482366,
+    "longitude": 144.3529932573438
+  },
+  {
+    "slug": "venue001"
+  },
+  {
+    "slug": "venue002"
+  },
+  {
+    "slug": "venue003"
+  },
+  {
+    "slug": "venue004"
+  },
+  {
+    "slug": "venue005"
+  },
+  {
+    "slug": "venue006"
+  },
+  {
+    "slug": "venue007"
+  },
+  {
+    "slug": "venue008"
+  },
+  {
+    "slug": "venue009"
+  },
+  {
+    "slug": "venue010"
+  },
+  {
+    "slug": "venue011"
+  },
+  {
+    "slug": "venue012"
+  },
+  {
+    "slug": "venue013"
+  },
+  {
+    "slug": "venue014"
+  },
+  {
+    "slug": "venue015"
+  },
+  {
+    "slug": "venue016"
+  },
+  {
+    "slug": "venue017"
+  },
+  {
+    "slug": "venue018"
+  },
+  {
+    "slug": "venue019"
+  },
+  {
+    "slug": "venue020"
+  },
+  {
+    "slug": "venue021"
+  },
+  {
+    "slug": "venue022"
+  },
+  {
+    "slug": "venue023"
+  },
+  {
+    "slug": "venue024"
+  },
+  {
+    "slug": "venue025"
+  },
+  {
+    "slug": "sunstone-warehouse",
+    "latitude": 47.975484193714834,
+    "longitude": 19.815303906798366
+  },
+  {
+    "slug": "lalaport-toyosu",
+    "latitude": 35.65612820496818,
+    "longitude": 139.7924671636429
+  },
+  {
+    "slug": "informatix-playground"
+  },
+  {
+    "slug": "cbre-loureshopping",
+    "latitude": 38.83458741004902,
+    "longitude": -9.156638235072025
+  },
+  {
+    "slug": "cbre-8-avenida",
+    "latitude": 40.888782249320265,
+    "longitude": -8.491294719278814
+  },
+  {
+    "slug": "cbre-riosul-shopping",
+    "latitude": 38.612766949419225,
+    "longitude": -9.103551506996157
+  },
+  {
+    "slug": "sm-seaside",
+    "latitude": 10.281895434496906,
+    "longitude": 123.88122729935279
+  },
+  {
+    "slug": "informatix-office",
+    "latitude": 35.53124435757993,
+    "longitude": 139.6946520928759
+  },
+  {
+    "slug": "m-and-m-world-las-vegas",
+    "latitude": 36.103306583143315,
+    "longitude": -115.1723269955528
+  },
+  {
+    "slug": "utk-student-union",
+    "latitude": 35.95657986897002,
+    "longitude": -83.92849802970888
+  },
+  {
+    "slug": "mallplaza-egana",
+    "latitude": -33.45247103653458,
+    "longitude": -70.56943953037263
+  },
+  {
+    "slug": "precision-macarthur-central",
+    "latitude": -27.46851124321835,
+    "longitude": 153.02778872894126
+  },
+  {
+    "slug": "mappedin-office-game",
+    "latitude": 43.48292049493493,
+    "longitude": -80.53577721118928
+  },
+  {
+    "slug": "hammerson-centrale-and-whitgift",
+    "latitude": 51.375680494002204,
+    "longitude": -0.10120411519892515
+  },
+  {
+    "slug": "nfl-seattle",
+    "latitude": 47.59508468188432,
+    "longitude": -122.33105823419467
+  },
+  {
+    "slug": "mappedin-demo-contact-monitoring",
+    "latitude": 43.48293314494738,
+    "longitude": -80.53578659892084
+  },
+  {
+    "slug": "branksome-hall",
+    "latitude": 43.67446788616773,
+    "longitude": -79.38094675540924
+  },
+  {
+    "slug": "servicenow-demo",
+    "latitude": 37.37582441936231,
+    "longitude": -121.96269446058069
+  },
+  {
+    "slug": "mitsui-lalaport-shin-misato",
+    "latitude": 35.85964391105518,
+    "longitude": 139.86629962921145
+  },
+  {
+    "slug": "growthpoint-brooklyn-mall-demo",
+    "latitude": -25.771899084914565,
+    "longitude": 28.234194169635888
+  },
+  {
+    "slug": "nishi-shinjuku",
+    "latitude": 35.68948740359094,
+    "longitude": 139.6945953369141
+  },
+  {
+    "slug": "servicenow-demo-2",
+    "latitude": 32.88198520822792,
+    "longitude": -117.20582604630184
+  },
+  {
+    "slug": "cma-demo",
+    "latitude": 26.011397990517587,
+    "longitude": -80.14615184649301
+  },
+  {
+    "slug": "iss-nasa-demo",
+    "latitude": 29.551913537305072,
+    "longitude": -95.09825449262281
+  },
+  {
+    "slug": "transcenda",
+    "latitude": 42.54732535377254,
+    "longitude": -83.21303620934486
+  },
+  {
+    "slug": "miracle-mile-shops",
+    "latitude": 36.10968367865988,
+    "longitude": -115.17039120197296
+  },
+  {
+    "slug": "dreamworld",
+    "latitude": -27.863474022787802,
+    "longitude": 153.3160831222631
+  },
+  {
+    "slug": "central_walk_woogrove"
+  },
+  {
+    "slug": "central_walk_woodgrove",
+    "latitude": 49.23628902226948,
+    "longitude": -124.05085533857348
+  },
+  {
+    "slug": "vicinity-uni-hill",
+    "latitude": -37.68118748103605,
+    "longitude": 145.07073456410583
+  },
+  {
+    "slug": "viatick-sands-grand-ballroom",
+    "latitude": 1.2822731701033818,
+    "longitude": 103.85850727558136
+  },
+  {
+    "slug": "zweibruecken-fashion-outlet"
+  },
+  {
+    "slug": "via-outlets-zweibruecken-fashion-outlet",
+    "latitude": 49.23089990346084,
+    "longitude": 7.4047207832336435
+  },
+  {
+    "slug": "servicenow-sandbox",
+    "latitude": 37.37580367079943,
+    "longitude": -121.96271538734437
+  },
+  {
+    "slug": "servicenow-waltham-wyman",
+    "latitude": 42.406200363863746,
+    "longitude": -71.25623156432995
+  },
+  {
+    "slug": "16-york"
+  },
+  {
+    "slug": "walker-parramatta-square"
+  },
+  {
+    "slug": "walker-collins-square",
+    "latitude": -37.821014223534206,
+    "longitude": 144.95008081197741
+  },
+  {
+    "slug": "lyell-mcewin-hospital",
+    "latitude": -34.748624027123014,
+    "longitude": 138.66563081792265
+  },
+  {
+    "slug": "fcc-fac-office",
+    "latitude": 50.44958782083166,
+    "longitude": -104.60973580833526
+  },
+  {
+    "slug": "mallplaza-oeste",
+    "latitude": -33.517599637170896,
+    "longitude": -70.71728509807146
+  },
+  {
+    "slug": "mallplaza-trebol",
+    "latitude": -36.79092594082058,
+    "longitude": -73.06647419929506
+  },
+  {
+    "slug": "mallplaza-norte",
+    "latitude": -33.365521010555035,
+    "longitude": -70.67761939018966
+  },
+  {
+    "slug": "mallplaza-antofagasta",
+    "latitude": -23.64626377216228,
+    "longitude": -70.40353417396547
+  },
+  {
+    "slug": "mallplaza-vespucio",
+    "latitude": -33.51791305131469,
+    "longitude": -70.59864270966501
+  },
+  {
+    "slug": "mcarthurglen-west-midlands",
+    "latitude": 52.68838762125234,
+    "longitude": -2.0163996136034257
+  },
+  {
+    "slug": "jamestown-ponce-city-market",
+    "latitude": 33.77224366356899,
+    "longitude": -84.3660092353821
+  },
+  {
+    "slug": "al-bidda-park",
+    "latitude": 25.301690351705908,
+    "longitude": 51.51343010365963
+  },
+  {
+    "slug": "mallplaza-alameda",
+    "latitude": -33.45313343975954,
+    "longitude": -70.68217813968673
+  },
+  {
+    "slug": "mallplaza-arica",
+    "latitude": -18.470104763414064,
+    "longitude": -70.30895948410036
+  },
+  {
+    "slug": "mallplaza-calama",
+    "latitude": -22.449437619729135,
+    "longitude": -68.92156541347505
+  },
+  {
+    "slug": "mallplaza-copiapo",
+    "latitude": -27.36889456023792,
+    "longitude": -70.34002141786915
+  },
+  {
+    "slug": "mallplaza-iquique",
+    "latitude": -20.23291805634589,
+    "longitude": -70.14276176691057
+  },
+  {
+    "slug": "mallplaza-la-serena",
+    "latitude": -29.912986497853915,
+    "longitude": -71.25851999153384
+  },
+  {
+    "slug": "mallplaza-las-angeles"
+  },
+  {
+    "slug": "mallplaza-los-dominicos",
+    "latitude": -33.41536706340367,
+    "longitude": -70.54072740487756
+  },
+  {
+    "slug": "mallplaza-mirador-bio-bio",
+    "latitude": -36.83024184531856,
+    "longitude": -73.0636364221573
+  },
+  {
+    "slug": "mallplaza-sur",
+    "latitude": -33.6323392064437,
+    "longitude": -70.7086606363737
+  },
+  {
+    "slug": "cbre-puerto-venecia",
+    "latitude": 41.607813823682456,
+    "longitude": -0.8866846561431886
+  },
+  {
+    "slug": "eletromidia-jhsf-shops",
+    "latitude": -23.56461789888438,
+    "longitude": -46.66897781420631
+  },
+  {
+    "slug": "mallplaza-tobalaba",
+    "latitude": -33.56941145689579,
+    "longitude": -70.55701673034493
+  },
+  {
+    "slug": "mallplaza-arequipa",
+    "latitude": -16.391337312003525,
+    "longitude": -71.54678285121919
+  },
+  {
+    "slug": "demo-golf-course",
+    "latitude": 43.43530004424542,
+    "longitude": -80.47383310273291
+  },
+  {
+    "slug": "okinawa-arena",
+    "latitude": 26.33282775659864,
+    "longitude": 127.78347881489029
+  },
+  {
+    "slug": "implementations-playground",
+    "latitude": 37.687819778809626,
+    "longitude": -121.05362891561526
+  },
+  {
+    "slug": "henry-ford-cancer-center",
+    "latitude": 42.365382408962226,
+    "longitude": -83.08510678338281
+  },
+  {
+    "slug": "san-manuel-casino",
+    "latitude": 34.15027925591038,
+    "longitude": -117.2287109924946
+  },
+  {
+    "slug": "mitsui-outlet-park-kisarazu",
+    "latitude": 35.435679223408826,
+    "longitude": 139.93554890155795
+  },
+  {
+    "slug": "mallplaza-comas",
+    "latitude": -11.936397086346854,
+    "longitude": -77.06533255603064
+  },
+  {
+    "slug": "mallplaza-los-angeles",
+    "latitude": -37.46724815231479,
+    "longitude": -72.35322356689723
+  },
+  {
+    "slug": "marrickville"
+  },
+  {
+    "slug": "amp-marrickville",
+    "latitude": -33.90712879846298,
+    "longitude": 151.1718400382961
+  },
+  {
+    "slug": "mitsui-razona-kawasaki"
+  },
+  {
+    "slug": "mitsui-divercity-tokyo",
+    "latitude": 35.625033685892824,
+    "longitude": 139.77562117339403
+  },
+  {
+    "slug": "mitsui-lazona-kawasaki",
+    "latitude": 35.533223430961876,
+    "longitude": 139.69604911057107
+  },
+  {
+    "slug": "navy-federal-credit-union",
+    "latitude": 30.5363755488756,
+    "longitude": -87.35421377607055
+  },
+  {
+    "slug": "sumida-aquarium"
+  },
+  {
+    "slug": "osaka-baseball-park"
+  },
+  {
+    "slug": "kyusyu-hotel-resort"
+  },
+  {
+    "slug": "airport-demo"
+  },
+  {
+    "slug": "shopping-mall-demo"
+  },
+  {
+    "slug": "underground-mall"
+  },
+  {
+    "slug": "retail-demo"
+  },
+  {
+    "slug": "train-station-demo"
+  },
+  {
+    "slug": "factory-demo"
+  },
+  {
+    "slug": "public-building-demo"
+  },
+  {
+    "slug": "precision-adelaide-central-plaza",
+    "latitude": -34.922130428111245,
+    "longitude": 138.60314607245527
+  },
+  {
+    "slug": "servicenow-singapore-demo",
+    "latitude": 1.2946339360345407,
+    "longitude": 103.85977050304064
+  },
+  {
+    "slug": "servicenow-san-diego-demo",
+    "latitude": 32.881573904204345,
+    "longitude": -117.20549046993257
+  },
+  {
+    "slug": "servicenow-santa-clara-demo",
+    "latitude": 37.37491840896149,
+    "longitude": -121.96260495184107
+  },
+  {
+    "slug": "chevron-renaissance"
+  },
+  {
+    "slug": "precision-pran-central",
+    "latitude": -37.847251008911456,
+    "longitude": 144.9935442082642
+  },
+  {
+    "slug": "precision-chevron-renaissance",
+    "latitude": -27.99989116004446,
+    "longitude": 153.42779938675451
+  },
+  {
+    "slug": "precision-shore-city",
+    "latitude": -36.787818519035724,
+    "longitude": 174.7702037118143
+  },
+  {
+    "slug": "nfl-toronto-office-demo",
+    "latitude": 43.65173095841881,
+    "longitude": -79.38111841678621
+  },
+  {
+    "slug": "amp-botany-town-centre",
+    "latitude": -36.9331338912485,
+    "longitude": 174.91296291147594
+  },
+  {
+    "slug": "undp-nyc",
+    "latitude": 40.751151047981445,
+    "longitude": -73.96997282829034
+  },
+  {
+    "slug": "undp-nyc-2",
+    "latitude": 40.75047085759103,
+    "longitude": -73.96921867424682
+  },
+  {
+    "slug": "arabian-centres-nakheel",
+    "latitude": 24.76663803748418,
+    "longitude": 46.71596035777006
+  },
+  {
+    "slug": "servicenow-testing"
+  },
+  {
+    "slug": "simon-testing",
+    "latitude": 40.08918364888504,
+    "longitude": -75.38901277875995
+  },
+  {
+    "slug": "undp-nyc-3",
+    "latitude": 40.749885368654496,
+    "longitude": -73.97341727137247
+  },
+  {
+    "slug": "undp-brazil-city",
+    "latitude": -22.902936056355376,
+    "longitude": -43.18796741910775
+  }
+]
